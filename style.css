@@ -1,0 +1,171 @@
+html{
+	background-color: #f4f6f7;
+}
+body{
+	margin: 0;
+	padding: 0;
+}
+.nav{
+	width: 100px;
+	height: 200px;
+	background: black;
+	position: absolute;
+	left:-100px; 
+}
+.nav-btn{
+	width: 20px;
+	height: 20px;
+	background: black;
+	position: absolute;
+	top:150px;
+	left: 10px;
+
+}
+
+.nav{
+	transition: all 0.5s ease;
+	background-size: 
+}
+.bgr2>div{
+	margin-left: 45px;
+}
+
+table.spr td{
+	border: 1px solid black;
+	padding:5px;
+}
+table.spr thead{
+	font-weight: bold;
+}
+.menu_bgr{
+	margin-left: 25px;
+	display: inline-block;
+	width: 965px;
+	height: 30px;
+	background: #890405;
+	margin-top: 20px;
+	color: #fff;
+}
+.menu_bgr2{
+	margin-top: 20px;
+	margin-right: 11px;
+	float: right;
+	width: 219px;
+	height: 30px;
+	background: #E9E8E8;
+}
+.clear{
+	clear: both;
+}
+.menu{
+	width: 100%;
+}
+.admin_menu{
+	float: right;
+}
+.admin_menu ul{
+	
+	width: 150px;
+	cursor: pointer;
+}
+.admin_menu li{
+	padding: 5px;
+}
+.admin_menu .level2 > ul{
+	width: 100%;
+}
+
+.admin_menu .level2 > ul > li{
+	font-weight: bold;
+
+
+}
+.admin_menu .level2 > ul > li > a{
+	color: #000;
+
+}
+
+.admin_menu .level1 > li + div{
+	color: #000;
+	background: #E9E8E8;
+	display: none;
+
+}
+.admin_menu .level1 > li:hover + div{
+	
+	display: block;
+
+}
+.admin_menu .level1 > li + div:hover{
+	
+	display: block;
+
+}
+
+
+.level3{
+	
+	
+	background: #D4D2D2;
+	display: none;
+	
+	
+	
+}
+.level2 :target + div{
+	display: block;
+	transition: all 0.3s ease;
+}
+.level3:hover{
+	display: block;
+}
+.admin_menu a{
+	text-decoration: none;
+}
+.level2 li:hover{
+	background: #BBB7B7;
+}
+.level3 > ul > li{
+	padding-left: 20px;
+}
+.usr_menu{
+	float: left;
+}
+.usr_menu li{
+	display: inline-block;
+	margin-left: 40px;
+	padding: 5px;
+}
+.h1_pasport{
+	display: initial;
+}
+.per_tbl td{
+	border: 1px solid black;
+	padding: 5px;
+}
+.per_tbl1 td{
+	border: 1px solid black;
+	padding: 5px;
+}
+.soot_temp td{
+	border: 1px solid black;
+	padding: 5px;
+}
+#disciplines_div{
+	width: 300px;
+	
+}
+#spr_instr_div{
+	width: 300px;
+}
+#spr_instr_p_div{
+	width: 300px;
+}
+form table td{
+	padding: 6px;
+}
+form>*{
+	margin-bottom: 10px;
+}
+
+
