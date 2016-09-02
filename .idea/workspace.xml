@@ -2,11 +2,14 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b00d6bde-d65b-44e0-a6a7-a3619eecd949" name="Default" comment="">
-      <change type="DELETED" beforePath="C:\OpenServer\domains\passport.ru\dsfsdf.php" afterPath="" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/dataSources.xml" />
+      <change type="DELETED" beforePath="C:\OpenServer\domains\passport.ru\addklishe.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\OpenServer\domains\passport.ru\desktop.ini" afterPath="" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="passport.ru.iws" />
     <ignored path=".idea/workspace.xml" />
+    <ignored path=".idea/dataSources.local.xml" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -18,12 +21,386 @@
   <component name="CreatePatchCommitExecutor">
     <option name="PATCH_PATH" value="" />
   </component>
+  <component name="DatabaseView">
+    <option name="FLATTEN" value="false" />
+    <option name="GROUP_BY_TYPE" value="true" />
+    <option name="SORT_CHILDREN" value="false" />
+    <option name="SHOW_TABLE_CONSTRAINTS" value="true" />
+    <PATH>
+      <PATH_ELEMENT>
+        <option name="myItemId" />
+        <option name="myItemType" value="com.intellij.database.view.DbRootNodeDescriptor" />
+      </PATH_ELEMENT>
+      <PATH_ELEMENT>
+        <option name="myItemId" value="MySQL - passport7@localhost" />
+        <option name="myItemType" value="com.intellij.database.view.DbNodeDescriptor" />
+      </PATH_ELEMENT>
+      <PATH_ELEMENT>
+        <option name="myItemId" value="passport7" />
+        <option name="myItemType" value="com.intellij.database.view.DbNodeDescriptor" />
+      </PATH_ELEMENT>
+    </PATH>
+  </component>
   <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
   <component name="FavoritesManager">
     <favorites_list name="passport.ru" />
   </component>
   <component name="FileEditorManager">
-    <leaf />
+    <leaf>
+      <file leaf-file-name="ыфдлфы.txt" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/ыфдлфы.txt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="5" column="20" selection-start-line="5" selection-start-column="20" selection-end-line="5" selection-end-column="20" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="add.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/add.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="-0.0">
+              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding>
+                <marker date="1464380426076" expanded="true" signature="591:616" placeholder="INSERT INTO ..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="script.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/js/script.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="console.sql" pinned="false" current-in-tab="false">
+        <entry file="file://$APPLICATION_CONFIG_DIR$/consoles/db/b646c374-86c8-41ed-b904-5ed59ba10751/console.sql">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="-0.0">
+              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="connect.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/connect.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="-0.0">
+              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="DATABASE/b646c374-86c8-41ed-b904-5ed59ba10751" pinned="false" current-in-tab="true">
+        <entry file="uml://DATABASE/b646c374-86c8-41ed-b904-5ed59ba10751">
+          <provider selected="true" editor-type-id="UmlEditorProvider">
+            <state>
+              <ID>DATABASE</ID>
+              <OriginalElement>b646c374-86c8-41ed-b904-5ed59ba10751</OriginalElement>
+              <nodes>
+                <node x="1496.6077083333332" y="124.0">b646c374-86c8-41ed-b904-5ed59ba10751.table:passport7.spr_ppssz</node>
+                <node x="707.9827083333332" y="1220.0">b646c374-86c8-41ed-b904-5ed59ba10751.table:passport7.read_disciplines</node>
+                <node x="1722.7327083333332" y="292.0">b646c374-86c8-41ed-b904-5ed59ba10751.table:passport7.spr_pk</node>
+                <node x="0.0" y="515.0">b646c374-86c8-41ed-b904-5ed59ba10751.table:passport7.spr_pk_pks</node>
+                <node x="189.73270833333322" y="854.0">b646c374-86c8-41ed-b904-5ed59ba10751.table:passport7.employee</node>
+                <node x="1071.1077083333332" y="766.0">b646c374-86c8-41ed-b904-5ed59ba10751.table:passport7.passport</node>
+                <node x="3003.052083333333" y="887.0">b646c374-86c8-41ed-b904-5ed59ba10751.table:passport7.spr_po</node>
+                <node x="3830.052083333333" y="898.0">b646c374-86c8-41ed-b904-5ed59ba10751.table:passport7.spr_electrics</node>
+                <node x="1503.6910416666667" y="1242.5">b646c374-86c8-41ed-b904-5ed59ba10751.table:passport7.passport_instr</node>
+                <node x="1531.1077083333332" y="0.0">b646c374-86c8-41ed-b904-5ed59ba10751.table:passport7.spr_level_education</node>
+                <node x="1983.982708333333" y="1198.0">b646c374-86c8-41ed-b904-5ed59ba10751.table:passport7.indicator_ergonomic</node>
+                <node x="926.1077083333332" y="931.5">b646c374-86c8-41ed-b904-5ed59ba10751.table:passport7.academic_year</node>
+                <node x="3252.052083333333" y="854.0">b646c374-86c8-41ed-b904-5ed59ba10751.table:passport7.spr_tools</node>
+                <node x="398.0" y="526.0">b646c374-86c8-41ed-b904-5ed59ba10751.table:passport7.spr_posts</node>
+                <node x="731.25" y="303.0">b646c374-86c8-41ed-b904-5ed59ba10751.table:passport7.spr_ciphers_disciplines</node>
+                <node x="3561.052083333333" y="876.0">b646c374-86c8-41ed-b904-5ed59ba10751.table:passport7.spr_t_mto</node>
+                <node x="587.0" y="515.0">b646c374-86c8-41ed-b904-5ed59ba10751.table:passport7.spr_department</node>
+                <node x="1777.052083333333" y="898.0">b646c374-86c8-41ed-b904-5ed59ba10751.table:passport7.spr_instr</node>
+                <node x="2237.802083333333" y="526.0">b646c374-86c8-41ed-b904-5ed59ba10751.table:passport7.spr_t_vent</node>
+                <node x="2654.809166666667" y="460.0">b646c374-86c8-41ed-b904-5ed59ba10751.table:passport7.audience</node>
+                <node x="209.0" y="526.0">b646c374-86c8-41ed-b904-5ed59ba10751.table:passport7.spr_t_employee</node>
+                <node x="1492.7327083333332" y="292.0">b646c374-86c8-41ed-b904-5ed59ba10751.table:passport7.spr_ok</node>
+                <node x="1734.802083333333" y="515.0">b646c374-86c8-41ed-b904-5ed59ba10751.table:passport7.spr_t_instr</node>
+                <node x="1142.3577083333332" y="146.0">b646c374-86c8-41ed-b904-5ed59ba10751.table:passport7.spr_t_cabinet_fgos</node>
+                <node x="2255.052083333333" y="865.0">b646c374-86c8-41ed-b904-5ed59ba10751.table:passport7.ventilation</node>
+                <node x="796.0" y="482.0">b646c374-86c8-41ed-b904-5ed59ba10751.table:passport7.disciplines</node>
+                <node x="3559.059166666667" y="526.0">b646c374-86c8-41ed-b904-5ed59ba10751.table:passport7.spr_mto</node>
+                <node x="1197.7327083333332" y="292.0">b646c374-86c8-41ed-b904-5ed59ba10751.table:passport7.foundation_offices_fgos</node>
+                <node x="2545.052083333333" y="898.0">b646c374-86c8-41ed-b904-5ed59ba10751.table:passport7.workplace_teacher</node>
+                <node x="2006.052083333333" y="887.0">b646c374-86c8-41ed-b904-5ed59ba10751.table:passport7.spr_san_pin</node>
+                <node x="936.9827083333332" y="1242.5">b646c374-86c8-41ed-b904-5ed59ba10751.table:passport7.passport_disciplines</node>
+                <node x="2774.052083333333" y="898.0">b646c374-86c8-41ed-b904-5ed59ba10751.table:passport7.special_clothing</node>
+              </nodes>
+              <notes />
+              <edges>
+                <edge source="b646c374-86c8-41ed-b904-5ed59ba10751.table:passport7.spr_po" target="b646c374-86c8-41ed-b904-5ed59ba10751.table:passport7.spr_mto">
+                  <point x="57.25" y="-70.0" />
+                  <point x="3174.802083333333" y="736.0" />
+                  <point x="3580.184166666667" y="736.0" />
+                  <point x="-63.375" y="37.0" />
+                </edge>
+                <edge source="b646c374-86c8-41ed-b904-5ed59ba10751.table:passport7.spr_tools" target="b646c374-86c8-41ed-b904-5ed59ba10751.table:passport7.spr_mto">
+                  <point x="72.25" y="-103.0" />
+                  <point x="3468.802083333333" y="746.0" />
+                  <point x="3622.434166666667" y="746.0" />
+                  <point x="-21.125" y="37.0" />
+                </edge>
+                <edge source="b646c374-86c8-41ed-b904-5ed59ba10751.table:passport7.indicator_ergonomic" target="b646c374-86c8-41ed-b904-5ed59ba10751.table:passport7.academic_year">
+                  <point x="-83.0" y="-81.0" />
+                  <point x="2025.482708333333" y="1168.0" />
+                  <point x="1019.8577083333332" y="1168.0" />
+                  <point x="31.25" y="25.5" />
+                </edge>
+                <edge source="b646c374-86c8-41ed-b904-5ed59ba10751.table:passport7.indicator_ergonomic" target="b646c374-86c8-41ed-b904-5ed59ba10751.table:passport7.spr_san_pin">
+                  <point x="0.0" y="-81.0" />
+                  <point x="2108.482708333333" y="1178.0" />
+                  <point x="2120.552083333333" y="1178.0" />
+                  <point x="0.0" y="70.0" />
+                </edge>
+                <edge source="b646c374-86c8-41ed-b904-5ed59ba10751.table:passport7.workplace_teacher" target="b646c374-86c8-41ed-b904-5ed59ba10751.table:passport7.audience">
+                  <point x="0.0" y="-59.0" />
+                  <point x="2649.552083333333" y="746.0" />
+                  <point x="2784.859166666667" y="746.0" />
+                  <point x="-14.449999999999818" y="103.0" />
+                </edge>
+                <edge source="b646c374-86c8-41ed-b904-5ed59ba10751.table:passport7.passport" target="b646c374-86c8-41ed-b904-5ed59ba10751.table:passport7.disciplines">
+                  <point x="-112.25" y="-191.0" />
+                  <point x="1183.3577083333332" y="726.0" />
+                  <point x="1003.5" y="726.0" />
+                  <point x="83.0" y="81.0" />
+                </edge>
+                <edge source="b646c374-86c8-41ed-b904-5ed59ba10751.table:passport7.employee" target="b646c374-86c8-41ed-b904-5ed59ba10751.table:passport7.spr_pk_pks">
+                  <point x="-108.375" y="-103.0" />
+                  <point x="225.85770833333322" y="746.0" />
+                  <point x="94.5" y="746.0" />
+                  <point x="0.0" y="48.0" />
+                </edge>
+                <edge source="b646c374-86c8-41ed-b904-5ed59ba10751.table:passport7.spr_electrics" target="b646c374-86c8-41ed-b904-5ed59ba10751.table:passport7.spr_mto">
+                  <point x="65.25" y="-59.0" />
+                  <point x="4025.802083333333" y="696.0" />
+                  <point x="3706.934166666667" y="696.0" />
+                  <point x="63.375" y="37.0" />
+                </edge>
+                <edge source="b646c374-86c8-41ed-b904-5ed59ba10751.table:passport7.spr_ppssz" target="b646c374-86c8-41ed-b904-5ed59ba10751.table:passport7.spr_level_education">
+                  <point x="0.0" y="-59.0" />
+                  <point x="0.0" y="37.0" />
+                </edge>
+                <edge source="b646c374-86c8-41ed-b904-5ed59ba10751.table:passport7.passport" target="b646c374-86c8-41ed-b904-5ed59ba10751.table:passport7.spr_t_cabinet_fgos">
+                  <point x="-37.41666666666674" y="-191.0" />
+                  <point x="1258.1910416666665" y="716.0" />
+                  <point x="1187.2327083333332" y="716.0" />
+                  <point x="1187.2327083333332" y="272.0" />
+                  <point x="1184.6077083333332" y="272.0" />
+                  <point x="-42.25" y="37.0" />
+                </edge>
+                <edge source="b646c374-86c8-41ed-b904-5ed59ba10751.table:passport7.read_disciplines" target="b646c374-86c8-41ed-b904-5ed59ba10751.table:passport7.academic_year">
+                  <point x="69.66666666666663" y="-59.0" />
+                  <point x="882.1493749999998" y="1178.0" />
+                  <point x="957.3577083333332" y="1178.0" />
+                  <point x="-31.25" y="25.5" />
+                </edge>
+                <edge source="b646c374-86c8-41ed-b904-5ed59ba10751.table:passport7.ventilation" target="b646c374-86c8-41ed-b904-5ed59ba10751.table:passport7.spr_t_vent">
+                  <point x="-67.25" y="-92.0" />
+                  <point x="0.0" y="37.0" />
+                </edge>
+                <edge source="b646c374-86c8-41ed-b904-5ed59ba10751.table:passport7.employee" target="b646c374-86c8-41ed-b904-5ed59ba10751.table:passport7.spr_posts">
+                  <point x="36.125" y="-103.0" />
+                  <point x="370.3577083333332" y="736.0" />
+                  <point x="482.5" y="736.0" />
+                  <point x="0.0" y="37.0" />
+                </edge>
+                <edge source="b646c374-86c8-41ed-b904-5ed59ba10751.table:passport7.passport_instr" target="b646c374-86c8-41ed-b904-5ed59ba10751.table:passport7.spr_instr">
+                  <point x="49.75" y="-36.5" />
+                  <point x="1652.9410416666667" y="1178.0" />
+                  <point x="1881.552083333333" y="1178.0" />
+                  <point x="0.0" y="59.0" />
+                </edge>
+                <edge source="b646c374-86c8-41ed-b904-5ed59ba10751.table:passport7.ventilation" target="b646c374-86c8-41ed-b904-5ed59ba10751.table:passport7.audience">
+                  <point x="67.25" y="-92.0" />
+                  <point x="2456.802083333333" y="726.0" />
+                  <point x="2727.059166666667" y="726.0" />
+                  <point x="-72.25" y="103.0" />
+                </edge>
+                <edge source="b646c374-86c8-41ed-b904-5ed59ba10751.table:passport7.spr_t_mto" target="b646c374-86c8-41ed-b904-5ed59ba10751.table:passport7.audience">
+                  <point x="-62.25" y="-81.0" />
+                  <point x="3623.302083333333" y="716.0" />
+                  <point x="2900.4591666666674" y="716.0" />
+                  <point x="101.15000000000009" y="103.0" />
+                </edge>
+                <edge source="b646c374-86c8-41ed-b904-5ed59ba10751.table:passport7.indicator_ergonomic" target="b646c374-86c8-41ed-b904-5ed59ba10751.table:passport7.audience">
+                  <point x="83.0" y="-81.0" />
+                  <point x="2191.482708333333" y="1178.0" />
+                  <point x="2534.552083333333" y="1178.0" />
+                  <point x="2534.552083333333" y="736.0" />
+                  <point x="2755.9591666666674" y="736.0" />
+                  <point x="-43.34999999999991" y="103.0" />
+                </edge>
+                <edge source="b646c374-86c8-41ed-b904-5ed59ba10751.table:passport7.employee" target="b646c374-86c8-41ed-b904-5ed59ba10751.table:passport7.spr_t_employee">
+                  <point x="-36.125" y="-103.0" />
+                  <point x="298.1077083333332" y="746.0" />
+                  <point x="293.5" y="746.0" />
+                  <point x="0.0" y="37.0" />
+                </edge>
+                <edge source="b646c374-86c8-41ed-b904-5ed59ba10751.table:passport7.passport_instr" target="b646c374-86c8-41ed-b904-5ed59ba10751.table:passport7.passport">
+                  <point x="-49.75" y="-36.5" />
+                  <point x="1553.4410416666667" y="1178.0" />
+                  <point x="1407.8577083333332" y="1178.0" />
+                  <point x="112.25" y="191.0" />
+                </edge>
+                <edge source="b646c374-86c8-41ed-b904-5ed59ba10751.table:passport7.spr_ok" target="b646c374-86c8-41ed-b904-5ed59ba10751.table:passport7.spr_ppssz">
+                  <point x="0.0" y="-59.0" />
+                  <point x="1597.2327083333332" y="272.0" />
+                  <point x="1585.8577083333332" y="272.0" />
+                  <point x="-29.75" y="59.0" />
+                </edge>
+                <edge source="b646c374-86c8-41ed-b904-5ed59ba10751.table:passport7.spr_pk" target="b646c374-86c8-41ed-b904-5ed59ba10751.table:passport7.spr_ppssz">
+                  <point x="0.0" y="-59.0" />
+                  <point x="1827.2327083333332" y="262.0" />
+                  <point x="1704.8577083333332" y="262.0" />
+                  <point x="89.25" y="59.0" />
+                </edge>
+                <edge source="b646c374-86c8-41ed-b904-5ed59ba10751.table:passport7.spr_t_mto" target="b646c374-86c8-41ed-b904-5ed59ba10751.table:passport7.spr_mto">
+                  <point x="62.25" y="-81.0" />
+                  <point x="3747.802083333333" y="746.0" />
+                  <point x="3664.684166666667" y="746.0" />
+                  <point x="21.125" y="37.0" />
+                </edge>
+                <edge source="b646c374-86c8-41ed-b904-5ed59ba10751.table:passport7.passport" target="b646c374-86c8-41ed-b904-5ed59ba10751.table:passport7.foundation_offices_fgos">
+                  <point x="37.41666666666674" y="-191.0" />
+                  <point x="1333.024375" y="686.0" />
+                  <point x="1403.9827083333332" y="686.0" />
+                  <point x="68.75" y="59.0" />
+                </edge>
+                <edge source="b646c374-86c8-41ed-b904-5ed59ba10751.table:passport7.spr_instr" target="b646c374-86c8-41ed-b904-5ed59ba10751.table:passport7.spr_t_instr">
+                  <point x="-52.25" y="-59.0" />
+                  <point x="0.0" y="48.0" />
+                </edge>
+                <edge source="b646c374-86c8-41ed-b904-5ed59ba10751.table:passport7.disciplines" target="b646c374-86c8-41ed-b904-5ed59ba10751.table:passport7.foundation_offices_fgos">
+                  <point x="62.25" y="-81.0" />
+                  <point x="982.75" y="435.0" />
+                  <point x="1266.4827083333332" y="435.0" />
+                  <point x="-68.75" y="59.0" />
+                </edge>
+                <edge source="b646c374-86c8-41ed-b904-5ed59ba10751.table:passport7.passport" target="b646c374-86c8-41ed-b904-5ed59ba10751.table:passport7.spr_ppssz">
+                  <point x="112.25" y="-191.0" />
+                  <point x="1407.8577083333332" y="696.0" />
+                  <point x="1712.2327083333332" y="696.0" />
+                  <point x="1712.2327083333332" y="272.0" />
+                  <point x="1645.3577083333332" y="272.0" />
+                  <point x="29.75" y="59.0" />
+                </edge>
+                <edge source="b646c374-86c8-41ed-b904-5ed59ba10751.table:passport7.passport_disciplines" target="b646c374-86c8-41ed-b904-5ed59ba10751.table:passport7.disciplines">
+                  <point x="-56.25" y="-36.5" />
+                  <point x="993.2327083333332" y="1168.0" />
+                  <point x="915.6077083333332" y="1168.0" />
+                  <point x="915.6077083333332" y="746.0" />
+                  <point x="920.5" y="746.0" />
+                  <point x="0.0" y="81.0" />
+                </edge>
+                <edge source="b646c374-86c8-41ed-b904-5ed59ba10751.table:passport7.read_disciplines" target="b646c374-86c8-41ed-b904-5ed59ba10751.table:passport7.employee">
+                  <point x="-69.66666666666674" y="-59.0" />
+                  <point x="742.8160416666665" y="1178.0" />
+                  <point x="334.2327083333332" y="1178.0" />
+                  <point x="0.0" y="103.0" />
+                </edge>
+                <edge source="b646c374-86c8-41ed-b904-5ed59ba10751.table:passport7.passport" target="b646c374-86c8-41ed-b904-5ed59ba10751.table:passport7.spr_department">
+                  <point x="-187.08333333333326" y="-191.0" />
+                  <point x="1108.524375" y="736.0" />
+                  <point x="728.75" y="736.0" />
+                  <point x="47.25" y="48.0" />
+                </edge>
+                <edge source="b646c374-86c8-41ed-b904-5ed59ba10751.table:passport7.foundation_offices_fgos" target="b646c374-86c8-41ed-b904-5ed59ba10751.table:passport7.spr_t_cabinet_fgos">
+                  <point x="-68.75" y="-59.0" />
+                  <point x="1266.4827083333332" y="272.0" />
+                  <point x="1269.1077083333332" y="272.0" />
+                  <point x="42.25" y="37.0" />
+                </edge>
+                <edge source="b646c374-86c8-41ed-b904-5ed59ba10751.table:passport7.passport" target="b646c374-86c8-41ed-b904-5ed59ba10751.table:passport7.audience">
+                  <point x="187.08333333333326" y="-191.0" />
+                  <point x="1482.6910416666665" y="706.0" />
+                  <point x="2669.2591666666667" y="706.0" />
+                  <point x="-130.05000000000018" y="103.0" />
+                </edge>
+                <edge source="b646c374-86c8-41ed-b904-5ed59ba10751.table:passport7.foundation_offices_fgos" target="b646c374-86c8-41ed-b904-5ed59ba10751.table:passport7.spr_ppssz">
+                  <point x="68.75" y="-59.0" />
+                  <point x="1403.9827083333332" y="272.0" />
+                  <point x="1526.3577083333332" y="272.0" />
+                  <point x="-89.25" y="59.0" />
+                </edge>
+                <edge source="b646c374-86c8-41ed-b904-5ed59ba10751.table:passport7.spr_po" target="b646c374-86c8-41ed-b904-5ed59ba10751.table:passport7.audience">
+                  <point x="-57.25" y="-70.0" />
+                  <point x="3060.302083333333" y="736.0" />
+                  <point x="2842.6591666666673" y="736.0" />
+                  <point x="43.34999999999991" y="103.0" />
+                </edge>
+                <edge source="b646c374-86c8-41ed-b904-5ed59ba10751.table:passport7.disciplines" target="b646c374-86c8-41ed-b904-5ed59ba10751.table:passport7.spr_ciphers_disciplines">
+                  <point x="-62.25" y="-81.0" />
+                  <point x="0.0" y="48.0" />
+                </edge>
+                <edge source="b646c374-86c8-41ed-b904-5ed59ba10751.table:passport7.special_clothing" target="b646c374-86c8-41ed-b904-5ed59ba10751.table:passport7.audience">
+                  <point x="0.0" y="-59.0" />
+                  <point x="2878.552083333333" y="746.0" />
+                  <point x="2813.7591666666667" y="746.0" />
+                  <point x="14.449999999999818" y="103.0" />
+                </edge>
+                <edge source="b646c374-86c8-41ed-b904-5ed59ba10751.table:passport7.employee" target="b646c374-86c8-41ed-b904-5ed59ba10751.table:passport7.spr_department">
+                  <point x="108.375" y="-103.0" />
+                  <point x="442.6077083333332" y="746.0" />
+                  <point x="634.25" y="746.0" />
+                  <point x="-47.25" y="48.0" />
+                </edge>
+                <edge source="b646c374-86c8-41ed-b904-5ed59ba10751.table:passport7.read_disciplines" target="b646c374-86c8-41ed-b904-5ed59ba10751.table:passport7.disciplines">
+                  <point x="0.0" y="-59.0" />
+                  <point x="812.4827083333332" y="746.0" />
+                  <point x="837.5" y="746.0" />
+                  <point x="-83.0" y="81.0" />
+                </edge>
+                <edge source="b646c374-86c8-41ed-b904-5ed59ba10751.table:passport7.passport_disciplines" target="b646c374-86c8-41ed-b904-5ed59ba10751.table:passport7.passport">
+                  <point x="56.25" y="-36.5" />
+                  <point x="1105.7327083333332" y="1178.0" />
+                  <point x="1183.3577083333332" y="1178.0" />
+                  <point x="-112.25" y="191.0" />
+                </edge>
+                <edge source="b646c374-86c8-41ed-b904-5ed59ba10751.table:passport7.spr_tools" target="b646c374-86c8-41ed-b904-5ed59ba10751.table:passport7.audience">
+                  <point x="-72.25" y="-103.0" />
+                  <point x="3324.302083333333" y="726.0" />
+                  <point x="2871.559166666667" y="726.0" />
+                  <point x="72.25" y="103.0" />
+                </edge>
+                <edge source="b646c374-86c8-41ed-b904-5ed59ba10751.table:passport7.spr_instr" target="b646c374-86c8-41ed-b904-5ed59ba10751.table:passport7.audience">
+                  <point x="52.25" y="-59.0" />
+                  <point x="1933.802083333333" y="716.0" />
+                  <point x="2698.1591666666673" y="716.0" />
+                  <point x="-101.15000000000009" y="103.0" />
+                </edge>
+                <edge source="b646c374-86c8-41ed-b904-5ed59ba10751.table:passport7.spr_electrics" target="b646c374-86c8-41ed-b904-5ed59ba10751.table:passport7.audience">
+                  <point x="-65.25" y="-59.0" />
+                  <point x="3895.302083333333" y="706.0" />
+                  <point x="2929.359166666667" y="706.0" />
+                  <point x="130.04999999999973" y="103.0" />
+                </edge>
+              </edges>
+              <settings layout="Hierarchic Group" zoom="0.7000000000000001" x="-315.42857142857144" y="915.3347161005962" />
+              <SelectedNodes>
+                <node>b646c374-86c8-41ed-b904-5ed59ba10751.table:passport7.passport</node>
+              </SelectedNodes>
+              <Categories>
+                <Category>Key columns</Category>
+                <Category>Columns</Category>
+              </Categories>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
   </component>
   <component name="Git.Settings">
     <option name="ROOT_SYNC" value="DONT_SYNC" />
@@ -84,6 +461,20 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="passport.ru" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="passport.ru" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="php" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
         </subPane>
       </pane>
       <pane id="Scope" />
@@ -95,6 +486,8 @@
     <property name="settings.editor.splitter.proportion" value="0.2" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="C:/Program Files/Git/cmd/git.exe" />
+    <property name="recentsLimit" value="5" />
+    <property name="dynamic.classpath" value="false" />
   </component>
   <component name="RunManager">
     <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug">
@@ -106,6 +499,9 @@
     </configuration>
     <configuration default="true" type="PhpBehatConfigurationType" factoryName="Behat">
       <BehatRunner />
+      <method />
+    </configuration>
+    <configuration default="true" type="PhpBuiltInWebServerConfigurationType" factoryName="PHP Built-in Web Server">
       <method />
     </configuration>
     <configuration default="true" type="PhpLocalRunConfigurationType" factoryName="PHP Console">
@@ -135,30 +531,45 @@
       <option name="project" value="LOCAL" />
       <updated>1472838473086</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="test">
+      <created>1472838624681</created>
+      <option name="number" value="00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1472838624681</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="0" width="1370" height="735" extended-state="0" />
     <editor active="false" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.24961832" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
-      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3283582" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
       <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.3283582" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.24961832" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.32977098" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
     </layout>
@@ -175,11 +586,344 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/dsfsdf.php">
+    <entry file="file://$PROJECT_DIR$/ыфдлфы.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="5" column="20" selection-start-line="5" selection-start-column="20" selection-end-line="5" selection-end-column="20" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/add.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <marker date="1464380426076" expanded="true" signature="591:616" placeholder="INSERT INTO ..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/script.js">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/consoles/db/b646c374-86c8-41ed-b904-5ed59ba10751/console.sql">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/connect.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="uml://DATABASE/b646c374-86c8-41ed-b904-5ed59ba10751">
+      <provider selected="true" editor-type-id="UmlEditorProvider">
+        <state>
+          <ID>DATABASE</ID>
+          <OriginalElement>b646c374-86c8-41ed-b904-5ed59ba10751</OriginalElement>
+          <nodes>
+            <node x="1496.6077083333332" y="124.0">b646c374-86c8-41ed-b904-5ed59ba10751.table:passport7.spr_ppssz</node>
+            <node x="707.9827083333332" y="1220.0">b646c374-86c8-41ed-b904-5ed59ba10751.table:passport7.read_disciplines</node>
+            <node x="1722.7327083333332" y="292.0">b646c374-86c8-41ed-b904-5ed59ba10751.table:passport7.spr_pk</node>
+            <node x="0.0" y="515.0">b646c374-86c8-41ed-b904-5ed59ba10751.table:passport7.spr_pk_pks</node>
+            <node x="189.73270833333322" y="854.0">b646c374-86c8-41ed-b904-5ed59ba10751.table:passport7.employee</node>
+            <node x="1071.1077083333332" y="766.0">b646c374-86c8-41ed-b904-5ed59ba10751.table:passport7.passport</node>
+            <node x="3003.052083333333" y="887.0">b646c374-86c8-41ed-b904-5ed59ba10751.table:passport7.spr_po</node>
+            <node x="3830.052083333333" y="898.0">b646c374-86c8-41ed-b904-5ed59ba10751.table:passport7.spr_electrics</node>
+            <node x="1503.6910416666667" y="1242.5">b646c374-86c8-41ed-b904-5ed59ba10751.table:passport7.passport_instr</node>
+            <node x="1531.1077083333332" y="0.0">b646c374-86c8-41ed-b904-5ed59ba10751.table:passport7.spr_level_education</node>
+            <node x="1983.982708333333" y="1198.0">b646c374-86c8-41ed-b904-5ed59ba10751.table:passport7.indicator_ergonomic</node>
+            <node x="926.1077083333332" y="931.5">b646c374-86c8-41ed-b904-5ed59ba10751.table:passport7.academic_year</node>
+            <node x="3252.052083333333" y="854.0">b646c374-86c8-41ed-b904-5ed59ba10751.table:passport7.spr_tools</node>
+            <node x="398.0" y="526.0">b646c374-86c8-41ed-b904-5ed59ba10751.table:passport7.spr_posts</node>
+            <node x="731.25" y="303.0">b646c374-86c8-41ed-b904-5ed59ba10751.table:passport7.spr_ciphers_disciplines</node>
+            <node x="3561.052083333333" y="876.0">b646c374-86c8-41ed-b904-5ed59ba10751.table:passport7.spr_t_mto</node>
+            <node x="587.0" y="515.0">b646c374-86c8-41ed-b904-5ed59ba10751.table:passport7.spr_department</node>
+            <node x="1777.052083333333" y="898.0">b646c374-86c8-41ed-b904-5ed59ba10751.table:passport7.spr_instr</node>
+            <node x="2237.802083333333" y="526.0">b646c374-86c8-41ed-b904-5ed59ba10751.table:passport7.spr_t_vent</node>
+            <node x="2654.809166666667" y="460.0">b646c374-86c8-41ed-b904-5ed59ba10751.table:passport7.audience</node>
+            <node x="209.0" y="526.0">b646c374-86c8-41ed-b904-5ed59ba10751.table:passport7.spr_t_employee</node>
+            <node x="1492.7327083333332" y="292.0">b646c374-86c8-41ed-b904-5ed59ba10751.table:passport7.spr_ok</node>
+            <node x="1734.802083333333" y="515.0">b646c374-86c8-41ed-b904-5ed59ba10751.table:passport7.spr_t_instr</node>
+            <node x="1142.3577083333332" y="146.0">b646c374-86c8-41ed-b904-5ed59ba10751.table:passport7.spr_t_cabinet_fgos</node>
+            <node x="2255.052083333333" y="865.0">b646c374-86c8-41ed-b904-5ed59ba10751.table:passport7.ventilation</node>
+            <node x="796.0" y="482.0">b646c374-86c8-41ed-b904-5ed59ba10751.table:passport7.disciplines</node>
+            <node x="3559.059166666667" y="526.0">b646c374-86c8-41ed-b904-5ed59ba10751.table:passport7.spr_mto</node>
+            <node x="1197.7327083333332" y="292.0">b646c374-86c8-41ed-b904-5ed59ba10751.table:passport7.foundation_offices_fgos</node>
+            <node x="2545.052083333333" y="898.0">b646c374-86c8-41ed-b904-5ed59ba10751.table:passport7.workplace_teacher</node>
+            <node x="2006.052083333333" y="887.0">b646c374-86c8-41ed-b904-5ed59ba10751.table:passport7.spr_san_pin</node>
+            <node x="936.9827083333332" y="1242.5">b646c374-86c8-41ed-b904-5ed59ba10751.table:passport7.passport_disciplines</node>
+            <node x="2774.052083333333" y="898.0">b646c374-86c8-41ed-b904-5ed59ba10751.table:passport7.special_clothing</node>
+          </nodes>
+          <notes />
+          <edges>
+            <edge source="b646c374-86c8-41ed-b904-5ed59ba10751.table:passport7.spr_po" target="b646c374-86c8-41ed-b904-5ed59ba10751.table:passport7.spr_mto">
+              <point x="57.25" y="-70.0" />
+              <point x="3174.802083333333" y="736.0" />
+              <point x="3580.184166666667" y="736.0" />
+              <point x="-63.375" y="37.0" />
+            </edge>
+            <edge source="b646c374-86c8-41ed-b904-5ed59ba10751.table:passport7.spr_tools" target="b646c374-86c8-41ed-b904-5ed59ba10751.table:passport7.spr_mto">
+              <point x="72.25" y="-103.0" />
+              <point x="3468.802083333333" y="746.0" />
+              <point x="3622.434166666667" y="746.0" />
+              <point x="-21.125" y="37.0" />
+            </edge>
+            <edge source="b646c374-86c8-41ed-b904-5ed59ba10751.table:passport7.indicator_ergonomic" target="b646c374-86c8-41ed-b904-5ed59ba10751.table:passport7.academic_year">
+              <point x="-83.0" y="-81.0" />
+              <point x="2025.482708333333" y="1168.0" />
+              <point x="1019.8577083333332" y="1168.0" />
+              <point x="31.25" y="25.5" />
+            </edge>
+            <edge source="b646c374-86c8-41ed-b904-5ed59ba10751.table:passport7.indicator_ergonomic" target="b646c374-86c8-41ed-b904-5ed59ba10751.table:passport7.spr_san_pin">
+              <point x="0.0" y="-81.0" />
+              <point x="2108.482708333333" y="1178.0" />
+              <point x="2120.552083333333" y="1178.0" />
+              <point x="0.0" y="70.0" />
+            </edge>
+            <edge source="b646c374-86c8-41ed-b904-5ed59ba10751.table:passport7.workplace_teacher" target="b646c374-86c8-41ed-b904-5ed59ba10751.table:passport7.audience">
+              <point x="0.0" y="-59.0" />
+              <point x="2649.552083333333" y="746.0" />
+              <point x="2784.859166666667" y="746.0" />
+              <point x="-14.449999999999818" y="103.0" />
+            </edge>
+            <edge source="b646c374-86c8-41ed-b904-5ed59ba10751.table:passport7.passport" target="b646c374-86c8-41ed-b904-5ed59ba10751.table:passport7.disciplines">
+              <point x="-112.25" y="-191.0" />
+              <point x="1183.3577083333332" y="726.0" />
+              <point x="1003.5" y="726.0" />
+              <point x="83.0" y="81.0" />
+            </edge>
+            <edge source="b646c374-86c8-41ed-b904-5ed59ba10751.table:passport7.employee" target="b646c374-86c8-41ed-b904-5ed59ba10751.table:passport7.spr_pk_pks">
+              <point x="-108.375" y="-103.0" />
+              <point x="225.85770833333322" y="746.0" />
+              <point x="94.5" y="746.0" />
+              <point x="0.0" y="48.0" />
+            </edge>
+            <edge source="b646c374-86c8-41ed-b904-5ed59ba10751.table:passport7.spr_electrics" target="b646c374-86c8-41ed-b904-5ed59ba10751.table:passport7.spr_mto">
+              <point x="65.25" y="-59.0" />
+              <point x="4025.802083333333" y="696.0" />
+              <point x="3706.934166666667" y="696.0" />
+              <point x="63.375" y="37.0" />
+            </edge>
+            <edge source="b646c374-86c8-41ed-b904-5ed59ba10751.table:passport7.spr_ppssz" target="b646c374-86c8-41ed-b904-5ed59ba10751.table:passport7.spr_level_education">
+              <point x="0.0" y="-59.0" />
+              <point x="0.0" y="37.0" />
+            </edge>
+            <edge source="b646c374-86c8-41ed-b904-5ed59ba10751.table:passport7.passport" target="b646c374-86c8-41ed-b904-5ed59ba10751.table:passport7.spr_t_cabinet_fgos">
+              <point x="-37.41666666666674" y="-191.0" />
+              <point x="1258.1910416666665" y="716.0" />
+              <point x="1187.2327083333332" y="716.0" />
+              <point x="1187.2327083333332" y="272.0" />
+              <point x="1184.6077083333332" y="272.0" />
+              <point x="-42.25" y="37.0" />
+            </edge>
+            <edge source="b646c374-86c8-41ed-b904-5ed59ba10751.table:passport7.read_disciplines" target="b646c374-86c8-41ed-b904-5ed59ba10751.table:passport7.academic_year">
+              <point x="69.66666666666663" y="-59.0" />
+              <point x="882.1493749999998" y="1178.0" />
+              <point x="957.3577083333332" y="1178.0" />
+              <point x="-31.25" y="25.5" />
+            </edge>
+            <edge source="b646c374-86c8-41ed-b904-5ed59ba10751.table:passport7.ventilation" target="b646c374-86c8-41ed-b904-5ed59ba10751.table:passport7.spr_t_vent">
+              <point x="-67.25" y="-92.0" />
+              <point x="0.0" y="37.0" />
+            </edge>
+            <edge source="b646c374-86c8-41ed-b904-5ed59ba10751.table:passport7.employee" target="b646c374-86c8-41ed-b904-5ed59ba10751.table:passport7.spr_posts">
+              <point x="36.125" y="-103.0" />
+              <point x="370.3577083333332" y="736.0" />
+              <point x="482.5" y="736.0" />
+              <point x="0.0" y="37.0" />
+            </edge>
+            <edge source="b646c374-86c8-41ed-b904-5ed59ba10751.table:passport7.passport_instr" target="b646c374-86c8-41ed-b904-5ed59ba10751.table:passport7.spr_instr">
+              <point x="49.75" y="-36.5" />
+              <point x="1652.9410416666667" y="1178.0" />
+              <point x="1881.552083333333" y="1178.0" />
+              <point x="0.0" y="59.0" />
+            </edge>
+            <edge source="b646c374-86c8-41ed-b904-5ed59ba10751.table:passport7.ventilation" target="b646c374-86c8-41ed-b904-5ed59ba10751.table:passport7.audience">
+              <point x="67.25" y="-92.0" />
+              <point x="2456.802083333333" y="726.0" />
+              <point x="2727.059166666667" y="726.0" />
+              <point x="-72.25" y="103.0" />
+            </edge>
+            <edge source="b646c374-86c8-41ed-b904-5ed59ba10751.table:passport7.spr_t_mto" target="b646c374-86c8-41ed-b904-5ed59ba10751.table:passport7.audience">
+              <point x="-62.25" y="-81.0" />
+              <point x="3623.302083333333" y="716.0" />
+              <point x="2900.4591666666674" y="716.0" />
+              <point x="101.15000000000009" y="103.0" />
+            </edge>
+            <edge source="b646c374-86c8-41ed-b904-5ed59ba10751.table:passport7.indicator_ergonomic" target="b646c374-86c8-41ed-b904-5ed59ba10751.table:passport7.audience">
+              <point x="83.0" y="-81.0" />
+              <point x="2191.482708333333" y="1178.0" />
+              <point x="2534.552083333333" y="1178.0" />
+              <point x="2534.552083333333" y="736.0" />
+              <point x="2755.9591666666674" y="736.0" />
+              <point x="-43.34999999999991" y="103.0" />
+            </edge>
+            <edge source="b646c374-86c8-41ed-b904-5ed59ba10751.table:passport7.employee" target="b646c374-86c8-41ed-b904-5ed59ba10751.table:passport7.spr_t_employee">
+              <point x="-36.125" y="-103.0" />
+              <point x="298.1077083333332" y="746.0" />
+              <point x="293.5" y="746.0" />
+              <point x="0.0" y="37.0" />
+            </edge>
+            <edge source="b646c374-86c8-41ed-b904-5ed59ba10751.table:passport7.passport_instr" target="b646c374-86c8-41ed-b904-5ed59ba10751.table:passport7.passport">
+              <point x="-49.75" y="-36.5" />
+              <point x="1553.4410416666667" y="1178.0" />
+              <point x="1407.8577083333332" y="1178.0" />
+              <point x="112.25" y="191.0" />
+            </edge>
+            <edge source="b646c374-86c8-41ed-b904-5ed59ba10751.table:passport7.spr_ok" target="b646c374-86c8-41ed-b904-5ed59ba10751.table:passport7.spr_ppssz">
+              <point x="0.0" y="-59.0" />
+              <point x="1597.2327083333332" y="272.0" />
+              <point x="1585.8577083333332" y="272.0" />
+              <point x="-29.75" y="59.0" />
+            </edge>
+            <edge source="b646c374-86c8-41ed-b904-5ed59ba10751.table:passport7.spr_pk" target="b646c374-86c8-41ed-b904-5ed59ba10751.table:passport7.spr_ppssz">
+              <point x="0.0" y="-59.0" />
+              <point x="1827.2327083333332" y="262.0" />
+              <point x="1704.8577083333332" y="262.0" />
+              <point x="89.25" y="59.0" />
+            </edge>
+            <edge source="b646c374-86c8-41ed-b904-5ed59ba10751.table:passport7.spr_t_mto" target="b646c374-86c8-41ed-b904-5ed59ba10751.table:passport7.spr_mto">
+              <point x="62.25" y="-81.0" />
+              <point x="3747.802083333333" y="746.0" />
+              <point x="3664.684166666667" y="746.0" />
+              <point x="21.125" y="37.0" />
+            </edge>
+            <edge source="b646c374-86c8-41ed-b904-5ed59ba10751.table:passport7.passport" target="b646c374-86c8-41ed-b904-5ed59ba10751.table:passport7.foundation_offices_fgos">
+              <point x="37.41666666666674" y="-191.0" />
+              <point x="1333.024375" y="686.0" />
+              <point x="1403.9827083333332" y="686.0" />
+              <point x="68.75" y="59.0" />
+            </edge>
+            <edge source="b646c374-86c8-41ed-b904-5ed59ba10751.table:passport7.spr_instr" target="b646c374-86c8-41ed-b904-5ed59ba10751.table:passport7.spr_t_instr">
+              <point x="-52.25" y="-59.0" />
+              <point x="0.0" y="48.0" />
+            </edge>
+            <edge source="b646c374-86c8-41ed-b904-5ed59ba10751.table:passport7.disciplines" target="b646c374-86c8-41ed-b904-5ed59ba10751.table:passport7.foundation_offices_fgos">
+              <point x="62.25" y="-81.0" />
+              <point x="982.75" y="435.0" />
+              <point x="1266.4827083333332" y="435.0" />
+              <point x="-68.75" y="59.0" />
+            </edge>
+            <edge source="b646c374-86c8-41ed-b904-5ed59ba10751.table:passport7.passport" target="b646c374-86c8-41ed-b904-5ed59ba10751.table:passport7.spr_ppssz">
+              <point x="112.25" y="-191.0" />
+              <point x="1407.8577083333332" y="696.0" />
+              <point x="1712.2327083333332" y="696.0" />
+              <point x="1712.2327083333332" y="272.0" />
+              <point x="1645.3577083333332" y="272.0" />
+              <point x="29.75" y="59.0" />
+            </edge>
+            <edge source="b646c374-86c8-41ed-b904-5ed59ba10751.table:passport7.passport_disciplines" target="b646c374-86c8-41ed-b904-5ed59ba10751.table:passport7.disciplines">
+              <point x="-56.25" y="-36.5" />
+              <point x="993.2327083333332" y="1168.0" />
+              <point x="915.6077083333332" y="1168.0" />
+              <point x="915.6077083333332" y="746.0" />
+              <point x="920.5" y="746.0" />
+              <point x="0.0" y="81.0" />
+            </edge>
+            <edge source="b646c374-86c8-41ed-b904-5ed59ba10751.table:passport7.read_disciplines" target="b646c374-86c8-41ed-b904-5ed59ba10751.table:passport7.employee">
+              <point x="-69.66666666666674" y="-59.0" />
+              <point x="742.8160416666665" y="1178.0" />
+              <point x="334.2327083333332" y="1178.0" />
+              <point x="0.0" y="103.0" />
+            </edge>
+            <edge source="b646c374-86c8-41ed-b904-5ed59ba10751.table:passport7.passport" target="b646c374-86c8-41ed-b904-5ed59ba10751.table:passport7.spr_department">
+              <point x="-187.08333333333326" y="-191.0" />
+              <point x="1108.524375" y="736.0" />
+              <point x="728.75" y="736.0" />
+              <point x="47.25" y="48.0" />
+            </edge>
+            <edge source="b646c374-86c8-41ed-b904-5ed59ba10751.table:passport7.foundation_offices_fgos" target="b646c374-86c8-41ed-b904-5ed59ba10751.table:passport7.spr_t_cabinet_fgos">
+              <point x="-68.75" y="-59.0" />
+              <point x="1266.4827083333332" y="272.0" />
+              <point x="1269.1077083333332" y="272.0" />
+              <point x="42.25" y="37.0" />
+            </edge>
+            <edge source="b646c374-86c8-41ed-b904-5ed59ba10751.table:passport7.passport" target="b646c374-86c8-41ed-b904-5ed59ba10751.table:passport7.audience">
+              <point x="187.08333333333326" y="-191.0" />
+              <point x="1482.6910416666665" y="706.0" />
+              <point x="2669.2591666666667" y="706.0" />
+              <point x="-130.05000000000018" y="103.0" />
+            </edge>
+            <edge source="b646c374-86c8-41ed-b904-5ed59ba10751.table:passport7.foundation_offices_fgos" target="b646c374-86c8-41ed-b904-5ed59ba10751.table:passport7.spr_ppssz">
+              <point x="68.75" y="-59.0" />
+              <point x="1403.9827083333332" y="272.0" />
+              <point x="1526.3577083333332" y="272.0" />
+              <point x="-89.25" y="59.0" />
+            </edge>
+            <edge source="b646c374-86c8-41ed-b904-5ed59ba10751.table:passport7.spr_po" target="b646c374-86c8-41ed-b904-5ed59ba10751.table:passport7.audience">
+              <point x="-57.25" y="-70.0" />
+              <point x="3060.302083333333" y="736.0" />
+              <point x="2842.6591666666673" y="736.0" />
+              <point x="43.34999999999991" y="103.0" />
+            </edge>
+            <edge source="b646c374-86c8-41ed-b904-5ed59ba10751.table:passport7.disciplines" target="b646c374-86c8-41ed-b904-5ed59ba10751.table:passport7.spr_ciphers_disciplines">
+              <point x="-62.25" y="-81.0" />
+              <point x="0.0" y="48.0" />
+            </edge>
+            <edge source="b646c374-86c8-41ed-b904-5ed59ba10751.table:passport7.special_clothing" target="b646c374-86c8-41ed-b904-5ed59ba10751.table:passport7.audience">
+              <point x="0.0" y="-59.0" />
+              <point x="2878.552083333333" y="746.0" />
+              <point x="2813.7591666666667" y="746.0" />
+              <point x="14.449999999999818" y="103.0" />
+            </edge>
+            <edge source="b646c374-86c8-41ed-b904-5ed59ba10751.table:passport7.employee" target="b646c374-86c8-41ed-b904-5ed59ba10751.table:passport7.spr_department">
+              <point x="108.375" y="-103.0" />
+              <point x="442.6077083333332" y="746.0" />
+              <point x="634.25" y="746.0" />
+              <point x="-47.25" y="48.0" />
+            </edge>
+            <edge source="b646c374-86c8-41ed-b904-5ed59ba10751.table:passport7.read_disciplines" target="b646c374-86c8-41ed-b904-5ed59ba10751.table:passport7.disciplines">
+              <point x="0.0" y="-59.0" />
+              <point x="812.4827083333332" y="746.0" />
+              <point x="837.5" y="746.0" />
+              <point x="-83.0" y="81.0" />
+            </edge>
+            <edge source="b646c374-86c8-41ed-b904-5ed59ba10751.table:passport7.passport_disciplines" target="b646c374-86c8-41ed-b904-5ed59ba10751.table:passport7.passport">
+              <point x="56.25" y="-36.5" />
+              <point x="1105.7327083333332" y="1178.0" />
+              <point x="1183.3577083333332" y="1178.0" />
+              <point x="-112.25" y="191.0" />
+            </edge>
+            <edge source="b646c374-86c8-41ed-b904-5ed59ba10751.table:passport7.spr_tools" target="b646c374-86c8-41ed-b904-5ed59ba10751.table:passport7.audience">
+              <point x="-72.25" y="-103.0" />
+              <point x="3324.302083333333" y="726.0" />
+              <point x="2871.559166666667" y="726.0" />
+              <point x="72.25" y="103.0" />
+            </edge>
+            <edge source="b646c374-86c8-41ed-b904-5ed59ba10751.table:passport7.spr_instr" target="b646c374-86c8-41ed-b904-5ed59ba10751.table:passport7.audience">
+              <point x="52.25" y="-59.0" />
+              <point x="1933.802083333333" y="716.0" />
+              <point x="2698.1591666666673" y="716.0" />
+              <point x="-101.15000000000009" y="103.0" />
+            </edge>
+            <edge source="b646c374-86c8-41ed-b904-5ed59ba10751.table:passport7.spr_electrics" target="b646c374-86c8-41ed-b904-5ed59ba10751.table:passport7.audience">
+              <point x="-65.25" y="-59.0" />
+              <point x="3895.302083333333" y="706.0" />
+              <point x="2929.359166666667" y="706.0" />
+              <point x="130.04999999999973" y="103.0" />
+            </edge>
+          </edges>
+          <settings layout="Hierarchic Group" zoom="0.7000000000000001" x="-315.42857142857144" y="915.3347161005962" />
+          <SelectedNodes>
+            <node>b646c374-86c8-41ed-b904-5ed59ba10751.table:passport7.passport</node>
+          </SelectedNodes>
+          <Categories>
+            <Category>Key columns</Category>
+            <Category>Columns</Category>
+          </Categories>
         </state>
       </provider>
     </entry>
