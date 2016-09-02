@@ -60,7 +60,7 @@ include "header.php";
 	<label>Специальность: </label>
 </td>
 <td>
-	<select name="spr_ppssz" id="spr_ppssz">
+	<select name="spr_ppssz" id="spr_ppssz" title="Специальность">
 
 		<?
 		$query = 'SELECT * FROM spr_ppssz';
@@ -113,7 +113,7 @@ include "header.php";
 	<select name="disciplines" id="">
 
 		<?
-		$query = 'SELECT * FROM foundation_offices_fgos';
+		$query = "SELECT * FROM foundation_offices_fgos";
 
 		$result = mysql_query($query) or die(mysql_error());
 
@@ -154,7 +154,7 @@ include "header.php";
 	</tr>
 
 </table>
-<input type="button" value="Добавить" id="add_per_tbl" style="margin-bottom: 10px;"></input>
+<input type="button" value="Добавить" id="add_per_tbl" style="margin-bottom: 10px;">
 
 <h1 style="font-weight: bold; margin-bottom: 10px;">3.Организационная оснащенность лаборатории/мастерской</h1>
 <h1 style="font-style: italic;">3.1 Инструкции по ТБ, ОТ, ПБ и ОТ при проведении лабораторно/практических работ</h1>
@@ -217,7 +217,7 @@ include "header.php";
 		</tr>
 
 	</table>
-	<input type="button" value="Добавить" id="add_per_tbl1"></input>
+	<input type="button" value="Добавить" id="add_per_tbl1">
 	<h1 style="font-weight: bold;">7.Организационно-эргономический уровень рабочих мест</h1>
 	<h1 style="font-style: italic;">7.1 Соответствие площади технологическим нормам</h1>
 	<label for="">Вывод</label>
@@ -323,7 +323,7 @@ include "header.php";
 		</tr>
 
 	</table>
-	<input type="button" value="Добавить" id="add_per_tbl1"></input>
+	<input type="button" value="Добавить" id="add_per_tbl1">
 	<h1 style="font-weight: bold;">9. Дата ежегодной приемки</h1>
 	От <input type="date" name="date_priem">
 	<input type="button" name="" value="Сохранить" id="add_passport">
