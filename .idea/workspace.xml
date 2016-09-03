@@ -2,14 +2,160 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b00d6bde-d65b-44e0-a6a7-a3619eecd949" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/jsLibraryMappings.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php/number_jobs.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/sqldialects.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/dataSources.xml" afterPath="$PROJECT_DIR$/.idea/dataSources.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.php" afterPath="$PROJECT_DIR$/index.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/passport.ru.iml" afterPath="$PROJECT_DIR$/.idea/passport.ru.iml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/js/script.js" afterPath="$PROJECT_DIR$/js/script.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/style.css" afterPath="$PROJECT_DIR$/style.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/electric/a012.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/electric/a013.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/electric/a02.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/electric/a205.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/electric/a207.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/electric/a301.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/electric/a302.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/electric/a303.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/electric/a304.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/electric/a305.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/electric/a306.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/electric/a307.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/electric/a308.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/electric/a309.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/electric/a310.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/electric/a311.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/electric/a401.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/electric/a402.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/electric/a403.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/electric/a404.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/electric/a405.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/electric/a406.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/electric/a407.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/electric/a408.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/electric/a409.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/electric/a410.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/electric/in1.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/electric/in2.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/electric/in3.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/electric/m101.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/electric/m102.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/electric/m103.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/electric/m104.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/electric/m105.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/electric/m106.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/electric/m107.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/electric/m108.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/electric/m109.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/electric/m110.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/electric/m201.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/electric/m202.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/electric/m203.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/electric/m204.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/electric/m205.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/electric/m206.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/electric/m207.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/electric/m207a.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/electric/m208.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/electric/m209.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/electric/m210.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/electric/m211.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/electric/m212.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/electric/m213.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/electric/m214.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/electric/m215.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/electric/m216.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/electric/m217.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/electric/m218.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/electric/m219.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/electric/m221.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/electric/m222.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/electric/m222a.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/electric/m223.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/electric/p1p3.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/electric/p2.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/electric/u01.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/electric/u101.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/electric/u102.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/electric/u103.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/electric/u104.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/electric/u105.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/electric/u106.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/electric/u107.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/electric/u108.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/electric/u201.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/electric/u202.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/electric/u203.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/electric/u204.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/electric/u205.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/electric/u206.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/electric/u207.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/electric/u208.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/electric/u301.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/electric/u302.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/electric/u303.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/electric/u304.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/electric/u305.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/electric/u306.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/electric/u307.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/electric/u308.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/electric/u309.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/electric/u401.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/electric/u402.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/electric/u403.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/electric/u404.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/electric/u405.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/electric/u406.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/electric/u407.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/electric/u408.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/electric/u409.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/electric/u501.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/electric/u502.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/electric/u503.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/electric/u504.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/electric/u505.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/electric/u506.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/electric/u507.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/electric/u508.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/electric/u509.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/electric/u601.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/electric/u602.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/electric/u603.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/electric/u604.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/electric/u605.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/electric/u606.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/electric/u607.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/electric/u608.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/electric/u609.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/electric/u701.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/electric/u702.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/electric/u703.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/electric/u704.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/electric/u705.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/electric/u706.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/electric/u707.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/electric/u708.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/electric/u709.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/electric/u801.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/electric/u802.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/electric/u803.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/electric/u804.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/electric/u805.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/electric/u806.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/electric/u807.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/electric/u808.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/electric/u809.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/electric/u901.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/electric/u901a.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/electric/u902.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/electric/u903.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/electric/u904.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/electric/u905.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/electric/u906.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/electric/u907.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/electric/u908.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/electric/uk4el1.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/electric/uk4el2.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/electric/uk4el3.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/electric/uk4mehob.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/electric/uk4sles1.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/electric/uk4sles2.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/electric/uk4slesmeh.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/electric/upk1.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/electric/upk2.jpg" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="passport.ru.iws" />
@@ -348,7 +494,13 @@
       <option name="project" value="LOCAL" />
       <updated>1472842353090</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="test">
+      <created>1472930197915</created>
+      <option name="number" value="00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1472930197915</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TodoView">
@@ -368,11 +520,11 @@
       <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.3696275" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.3696275" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3295129" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3295129" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Database Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.8094556" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.17246597" sideWeight="0.5" order="1" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.17246597" sideWeight="0.5" order="1" side_tool="false" content_ui="combo" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.20499243" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3295129" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.24962178" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
