@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
-  <component name="DataSourceManagerImpl" format="xml" hash="697168807">
-    <data-source source="LOCAL" name="MySQL - passport7@localhost" uuid="b646c374-86c8-41ed-b904-5ed59ba10751">
+  <component name="DataSourceManagerImpl" format="xml" hash="2584987780">
+    <data-source source="LOCAL" name="MySQL - passport7@localhost" uuid="70b92de1-ca39-4ca1-863d-6b7f7a851a08">
       <driver-ref>mysql</driver-ref>
       <synchronize>true</synchronize>
       <jdbc-driver>com.mysql.jdbc.Driver</jdbc-driver>

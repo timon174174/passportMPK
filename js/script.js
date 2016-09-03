@@ -126,10 +126,20 @@ $(document).ready(function(){
 	$('#add_per_tbl1').click(function(){
 
 		$(".per_tbl1").append('<tr><td><input type="text" name="material_tehn_name"/></td><td><input type="text" name="material_tehn_count"/></td><td><input type="text" name="material_tehn_year"/></td><td><a class="delete_row">Удалить</a></td></tr>');
-			
+
 
 		$(".delete_row").click(function(){
-			
+
+			$(this).parent().parent().remove();
+		});
+	});
+	$('#add_perspect').click(function(){
+
+		$(".perspect").append('<tr><td><input type="text" name="perspect_name"/></td><td><input type="text" name="perspect_count"/></td><td><input type="text" name="perspect_description"/></td><td><a class="delete_row">Удалить</a></td></tr>');
+
+
+		$(".delete_row").click(function(){
+
 			$(this).parent().parent().remove();
 		});
 	});
@@ -221,6 +231,8 @@ $(document).ready(function(){
 		$.each(solInstr.getSelection(), function(index, value) {
 			instr[index] = value["value"];
 		});
+		$("")
+
 
 
 		
@@ -264,6 +276,28 @@ $(document).ready(function(){
 
 
 	});
+	$("select[name='audience']").change(function(){
+		alert("asd");
+		id_audience = $(this).find("option:checked").val();
+		alert(id_audience);
+		$.ajax({
+			type: "POST",
+			url: "php/number_jobs.php",
+			data: {
+				id_audience:id_audience
+			},
+			success: function(data) {
+
+				$("input[name='number_jobs']").val(data);
+
+
+			},
+			error: function(xhr) {
+				alert("Всё плохо");
+				console.log(xhr);
+			},
+		})
+	})
 
 
 

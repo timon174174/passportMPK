@@ -200,6 +200,7 @@ include "header.php";
 
 		?>
 	</select></div> -->
+
 	<h1 style="font-style: italic; margin-bottom: 10px; margin-bottom: 10px;">3.3 Журнал регистрации инструктажей на рабочем месте</h1>
 	<input type="checkbox" id="checkbox_journal" value="1" style="margin-bottom: 10px;"><div style="display: none;" id="journal_regis"><label> ведется с </label><input type="date" name="journal_date"></div>
 
@@ -220,28 +221,20 @@ include "header.php";
 	<input type="button" value="Добавить" id="add_per_tbl1">
 	<h1 style="font-weight: bold;">7.Организационно-эргономический уровень рабочих мест</h1>
 	<h1 style="font-style: italic;">7.1 Соответствие площади технологическим нормам</h1>
-	<label for="">Вывод</label>
-	<select name="" id="">
-		<option value="">Соответствует</option>
-		<option value="">Не соответствует</option>
-	</select>
+	<label for="">Количество посадочых мест</label>
+	<input type="text" name="number_jobs">
 	<h1 style="font-style: italic;">7.2 Температурный режим</h1>
 
 	<table class="soot_temp">
 		<tr>
 			<td>Температура в летний период, град. C</td>
 			<td>Температура в зимний период, град. C</td>
-			<td>Вывод</td>
+
 		</tr>
 		<tr>
-			<td><input type="text" name="temp_summer"></td>
-			<td><input type="text" name="temp_winter"></td>
-			<td>
-				<select name="" id="">
-					<option value="">Соответствует</option>
-					<option value="">Не соответствует</option>
-				</select>
-			</td>
+			<td><input type="text" name="temp_summer" value=""></td>
+			<td><input type="text" name="temp_winter" value=""></td>
+
 		</tr>
 	</table>
 
@@ -253,17 +246,10 @@ include "header.php";
 		<tr>
 			<td>Фактический уровень шума, Дб</td>
 			<td>Источник шума</td>
-			<td>Вывод</td>
 		</tr>
 		<tr>
 			<td><input type="text" name="fact_shum"></td>
 			<td><input type="text" name="ist_shum"></td>
-			<td>
-				<select name="" id="">
-					<option value="">Соответствует</option>
-					<option value="">Не соответствует</option>
-				</select>
-			</td>
 		</tr>
 	</table>
 
@@ -280,18 +266,17 @@ include "header.php";
 		<tr>
 			<td>Вид освещенности</td>
 			<td>Фактическая освещенность</td>
-			<td>Вывод</td>
 		</tr>
 		<tr>
-			<td><input type="text" name="type_light"></td>
-			<td><input type="text" name="fact_light"></td>
-			<td>
-				<select name="" id="">
-					<option value="">Соответствует</option>
-					<option value="">Не соответствует</option>
-				</select>
-			</td>
+			<td>Естественная</td>
+			<td><input type="text" name="fact_light" value="">
+            </td>
 		</tr>
+        <tr>
+			<td>Искуственная</td>
+			<td><input type="text" name="fact_light" value=""></td>
+		</tr>
+
 	</table>
 
 
@@ -315,7 +300,7 @@ include "header.php";
 	</table>
 	<h1 style="font-weight: bold;">8.Перспективное планирование</h1>
 	<h1 style="font-style: italic;">Перечень оборудования,	 электронных плакатов, дидактических средств и прочих материалов</h1>
-	<table class="per_tbl1">
+	<table class="perspect">
 		<tr>
 			<td style="width: 400px">Наименование</td>
 			<td>Кол-во</td>
@@ -323,7 +308,7 @@ include "header.php";
 		</tr>
 
 	</table>
-	<input type="button" value="Добавить" id="add_per_tbl1">
+	<input type="button" value="Добавить" id="add_perspect">
 	<h1 style="font-weight: bold;">9. Дата ежегодной приемки</h1>
 	От <input type="date" name="date_priem">
 	<input type="button" name="" value="Сохранить" id="add_passport">

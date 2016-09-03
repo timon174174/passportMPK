@@ -24,7 +24,7 @@ body{
 
 .nav{
 	transition: all 0.5s ease;
-	background-size: 
+
 }
 .bgr2>div{
 	margin-left: 45px;
@@ -144,6 +144,10 @@ table.spr thead{
 	padding: 5px;
 }
 .per_tbl1 td{
+	border: 1px solid black;
+	padding: 5px;
+}
+.perspect td{
 	border: 1px solid black;
 	padding: 5px;
 }
