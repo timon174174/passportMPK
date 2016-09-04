@@ -1,4 +1,6 @@
 $(document).ready(function(){
+
+
 	updateOfficesFgos();
 	function updateOfficesFgos(){
 		var type = $("select[name='spr_t_cabinet_fgos'] option:selected").val();
@@ -208,6 +210,9 @@ $(document).ready(function(){
 	});
 
 	$("#add_passport").click(function(event) {
+
+
+
 		var id_audience = $("select[name='audience']>option:checked").val();
 		var spr_t_cabinet_fgos = $("select[name='spr_t_cabinet_fgos']>option:checked").val();
 		var spr_department = $("select[name='spr_department']>option:checked").val();
@@ -224,6 +229,9 @@ $(document).ready(function(){
 		var date_priem = $("input[name='date_priem']").val();
 		var allDisciplines = new Array;
 		var instr = new Array;
+		var plakat = new Object();
+		var mat_tehn = new Object();
+		var perspect = new Object();
 		
 		$.each(solDisciplines.getSelection(), function(index, value) {
 			allDisciplines[index] = value["value"];
@@ -231,7 +239,63 @@ $(document).ready(function(){
 		$.each(solInstr.getSelection(), function(index, value) {
 			instr[index] = value["value"];
 		});
-		$("")
+			var i = 1;
+		$.each($("input[name='plakat_name']"), function (index, value) {
+
+			plakat['['+i+'][name]'] = $(this).val();
+
+			i++;
+		});
+		i = 1;
+		$.each($("input[name='plakat_count']"), function (index, value) {
+
+			plakat['['+i+'][count]'] = $(this).val();
+			i++;
+		});
+		i=1;
+		$.each($("input[name='material_tehn_name']"), function (index, value) {
+
+			mat_tehn['['+i+'][name]'] = $(this).val();
+			i++;
+		});
+		i=1;
+		$.each($("input[name='material_tehn_count']"), function (index, value) {
+
+			mat_tehn['['+i+'][count]'] = $(this).val();
+			i++;
+		});
+		i=1;
+		$.each($("input[name='material_tehn_year']"), function (index, value) {
+
+			mat_tehn['['+i+'][year]'] = $(this).val();
+			i++;
+		});
+		i=1;
+		$.each($("input[name='perspect_name']"), function (index, value) {
+
+			perspect['['+i+'][name]'] = $(this).val();
+			i++;
+		});
+		i=1;
+		$.each($("input[name='perspect_count']"), function (index, value) {
+
+			perspect['['+i+'][count]'] = $(this).val();
+			i++;
+		});
+		i=1;
+		$.each($("input[name='perspect_description']"), function (index, value) {
+
+			perspect['['+i+'][description]'] = $(this).val();
+			i++;
+		});
+
+
+
+
+
+
+
+
 
 
 
@@ -257,7 +321,10 @@ $(document).ready(function(){
 				fact_light:fact_light,
 				date_priem:date_priem,
 				allDisciplines:allDisciplines,
-				instr:instr
+				instr:instr,
+				plakat:plakat,
+				mat_tehn:mat_tehn,
+				perspect:perspect
 			},
 			success: function(data) {
 				

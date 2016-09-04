@@ -2,160 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b00d6bde-d65b-44e0-a6a7-a3619eecd949" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/electric/a012.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/electric/a013.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/electric/a02.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/electric/a205.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/electric/a207.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/electric/a301.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/electric/a302.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/electric/a303.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/electric/a304.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/electric/a305.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/electric/a306.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/electric/a307.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/electric/a308.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/electric/a309.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/electric/a310.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/electric/a311.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/electric/a401.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/electric/a402.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/electric/a403.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/electric/a404.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/electric/a405.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/electric/a406.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/electric/a407.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/electric/a408.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/electric/a409.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/electric/a410.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/electric/in1.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/electric/in2.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/electric/in3.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/electric/m101.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/electric/m102.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/electric/m103.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/electric/m104.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/electric/m105.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/electric/m106.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/electric/m107.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/electric/m108.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/electric/m109.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/electric/m110.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/electric/m201.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/electric/m202.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/electric/m203.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/electric/m204.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/electric/m205.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/electric/m206.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/electric/m207.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/electric/m207a.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/electric/m208.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/electric/m209.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/electric/m210.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/electric/m211.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/electric/m212.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/electric/m213.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/electric/m214.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/electric/m215.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/electric/m216.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/electric/m217.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/electric/m218.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/electric/m219.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/electric/m221.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/electric/m222.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/electric/m222a.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/electric/m223.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/electric/p1p3.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/electric/p2.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/electric/u01.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/electric/u101.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/electric/u102.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/electric/u103.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/electric/u104.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/electric/u105.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/electric/u106.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/electric/u107.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/electric/u108.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/electric/u201.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/electric/u202.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/electric/u203.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/electric/u204.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/electric/u205.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/electric/u206.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/electric/u207.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/electric/u208.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/electric/u301.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/electric/u302.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/electric/u303.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/electric/u304.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/electric/u305.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/electric/u306.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/electric/u307.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/electric/u308.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/electric/u309.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/electric/u401.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/electric/u402.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/electric/u403.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/electric/u404.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/electric/u405.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/electric/u406.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/electric/u407.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/electric/u408.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/electric/u409.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/electric/u501.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/electric/u502.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/electric/u503.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/electric/u504.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/electric/u505.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/electric/u506.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/electric/u507.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/electric/u508.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/electric/u509.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/electric/u601.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/electric/u602.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/electric/u603.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/electric/u604.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/electric/u605.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/electric/u606.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/electric/u607.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/electric/u608.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/electric/u609.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/electric/u701.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/electric/u702.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/electric/u703.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/electric/u704.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/electric/u705.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/electric/u706.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/electric/u707.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/electric/u708.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/electric/u709.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/electric/u801.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/electric/u802.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/electric/u803.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/electric/u804.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/electric/u805.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/electric/u806.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/electric/u807.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/electric/u808.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/electric/u809.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/electric/u901.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/electric/u901a.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/electric/u902.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/electric/u903.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/electric/u904.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/electric/u905.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/electric/u906.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/electric/u907.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/electric/u908.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/electric/uk4el1.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/electric/uk4el2.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/electric/uk4el3.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/electric/uk4mehob.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/electric/uk4sles1.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/electric/uk4sles2.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/electric/uk4slesmeh.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/electric/upk1.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/electric/upk2.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/php/add_passport.php" afterPath="$PROJECT_DIR$/php/add_passport.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/dataSources.xml" afterPath="$PROJECT_DIR$/.idea/dataSources.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/js/script.js" afterPath="$PROJECT_DIR$/js/script.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/sqldialects.xml" afterPath="$PROJECT_DIR$/.idea/sqldialects.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="passport.ru.iws" />
@@ -183,11 +33,11 @@
         <option name="myItemType" value="com.intellij.database.view.DbRootNodeDescriptor" />
       </PATH_ELEMENT>
       <PATH_ELEMENT>
-        <option name="myItemId" />
+        <option name="myItemId" value="MySQL - passport7@localhost" />
         <option name="myItemType" value="com.intellij.database.view.DbNodeDescriptor" />
       </PATH_ELEMENT>
       <PATH_ELEMENT>
-        <option name="myItemId" />
+        <option name="myItemId" value="passport7" />
         <option name="myItemType" value="com.intellij.database.view.DbNodeDescriptor" />
       </PATH_ELEMENT>
     </PATH>
@@ -211,9 +61,28 @@
       <file leaf-file-name="script.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/js/script.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-12.481482">
-              <caret line="137" column="185" selection-start-line="137" selection-start-column="185" selection-end-line="137" selection-end-column="185" />
+            <state vertical-scroll-proportion="-31.962963">
+              <caret line="326" column="33" selection-start-line="326" selection-start-column="33" selection-end-line="326" selection-end-column="33" />
               <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="add_passport.php" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/php/add_passport.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.810241">
+              <caret line="82" column="80" selection-start-line="82" selection-start-column="80" selection-end-line="82" selection-end-column="80" />
+              <folding>
+                <marker date="1473019200744" expanded="true" signature="773:1247" placeholder="INSERT INTO ..." />
+                <marker date="1473019200744" expanded="true" signature="1279:1327" placeholder="SELECT id FR..passport..." />
+                <marker date="1473019200744" expanded="true" signature="1493:1586" placeholder="INSERT INTO ..." />
+                <marker date="1473019200744" expanded="true" signature="1669:1751" placeholder="INSERT INTO ..." />
+                <marker date="1473019200744" expanded="true" signature="1902:1983" placeholder="INSERT INTO ..." />
+                <marker date="1473019200744" expanded="true" signature="1902:2028" placeholder="INSERT INTO ..." />
+                <marker date="1473019200744" expanded="true" signature="2222:2362" placeholder="INSERT INTO ..." />
+                <marker date="1473019200744" expanded="true" signature="2570:2717" placeholder="INSERT INTO ..." />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -221,17 +90,17 @@
       <file leaf-file-name="main.css" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/main.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-15.068966">
+            <state vertical-scroll-proportion="0.0">
               <caret line="117" column="18" selection-start-line="117" selection-start-column="13" selection-end-line="117" selection-end-column="18" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="style.css" pinned="false" current-in-tab="true">
+      <file leaf-file-name="style.css" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/style.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.5561358">
+            <state vertical-scroll-proportion="0.0">
               <caret line="26" column="0" selection-start-line="26" selection-start-column="0" selection-end-line="26" selection-end-column="0" />
               <folding />
             </state>
@@ -241,7 +110,7 @@
       <file leaf-file-name="number_jobs.php" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/php/number_jobs.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-2.6153846">
+            <state vertical-scroll-proportion="0.0">
               <caret line="4" column="22" selection-start-line="4" selection-start-column="22" selection-end-line="4" selection-end-column="22" />
               <folding>
                 <marker date="1472902449337" expanded="true" signature="78:121" placeholder="SELECT numbe..audience..." />
@@ -255,15 +124,9 @@
       <file leaf-file-name="index.php" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/index.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-4.6545453">
-              <caret line="310" column="58" selection-start-line="310" selection-start-column="58" selection-end-line="310" selection-end-column="58" />
+            <state vertical-scroll-proportion="-2.2727273">
+              <caret line="300" column="41" selection-start-line="300" selection-start-column="37" selection-end-line="300" selection-end-column="41" />
               <folding>
-                <element signature="n#style#0;n#input#1;n#form#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#h1#13;n#form#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#h1#14;n#form#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#h1#15;n#form#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#td#0;n#tr#0;n#table#7;n#form#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#h1#16;n#form#0;n#!!top" expanded="true" />
                 <marker date="1472908004401" expanded="true" signature="181:203" placeholder="SELECT * FRO..audience..." />
                 <marker date="1472908004401" expanded="true" signature="545:577" placeholder="SELECT * FRO..spr_t_cabinet_fgos..." />
                 <marker date="1472908004401" expanded="true" signature="919:942" placeholder="SELECT * FRO..spr_ppssz..." />
@@ -279,7 +142,7 @@
       <file leaf-file-name="header.php" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/header.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="36.03846">
+            <state vertical-scroll-proportion="0.0">
               <caret line="12" column="4" selection-start-line="12" selection-start-column="4" selection-end-line="12" selection-end-column="4" />
               <folding />
             </state>
@@ -309,8 +172,9 @@
         <option value="$PROJECT_DIR$/php/number_jobs.php" />
         <option value="$APPLICATION_CONFIG_DIR$/consoles/db/b646c374-86c8-41ed-b904-5ed59ba10751/console_1.sql" />
         <option value="$PROJECT_DIR$/index.php" />
-        <option value="$PROJECT_DIR$/js/script.js" />
         <option value="$PROJECT_DIR$/style.css" />
+        <option value="$PROJECT_DIR$/js/script.js" />
+        <option value="$PROJECT_DIR$/php/add_passport.php" />
       </list>
     </option>
   </component>
@@ -326,8 +190,10 @@
   </component>
   <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" />
   <component name="ProjectFrameBounds">
-    <option name="width" value="1366" />
-    <option name="height" value="768" />
+    <option name="x" value="-8" />
+    <option name="y" value="-8" />
+    <option name="width" value="1382" />
+    <option name="height" value="744" />
   </component>
   <component name="ProjectInspectionProfilesVisibleTreeState">
     <entry key="Project Default">
@@ -416,8 +282,8 @@
           </PATH>
         </subPane>
       </pane>
-      <pane id="Scope" />
       <pane id="Scratches" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -429,6 +295,7 @@
     <property name="dynamic.classpath" value="false" />
     <property name="full.screen.before.presentation.mode" value="true" />
     <property name="Console.TableResult.DefaultCopyAction" value="Comma-separated Values (CSV)" />
+    <property name="FullScreen" value="false" />
   </component>
   <component name="RunManager">
     <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug">
@@ -452,6 +319,12 @@
       <method />
     </configuration>
     <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
+      <node-options />
+      <gulpfile />
+      <tasks />
+      <arguments />
+      <pass-parent-envs>true</pass-parent-envs>
+      <envs />
       <method />
     </configuration>
   </component>
@@ -500,7 +373,13 @@
       <option name="project" value="LOCAL" />
       <updated>1472930197915</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="test">
+      <created>1472930282094</created>
+      <option name="number" value="00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1472930282094</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TodoView">
@@ -513,29 +392,29 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="0" width="1366" height="768" extended-state="0" />
+    <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
     <editor active="false" />
     <layout>
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.17473525" sideWeight="0.5" order="1" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32808024" sideWeight="0.5" order="12" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.3696275" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3295129" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3295129" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
-      <window_info id="Database Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.8094556" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.17246597" sideWeight="0.5" order="1" side_tool="false" content_ui="combo" />
-      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.20499243" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3295129" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.20196672" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.36928105" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.24962178" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3295129" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32980332" sideWeight="0.5" order="0" side_tool="true" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
-      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="3" side_tool="false" content_ui="combo" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3295129" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Database Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.8094556" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="3" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3295129" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
     </layout>
     <layout-to-restore>
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32808024" sideWeight="0.5" order="12" side_tool="false" content_ui="tabs" />
@@ -552,7 +431,7 @@
       <window_info id="Database Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.8094556" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.17246597" sideWeight="0.5" order="1" side_tool="false" content_ui="combo" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="3" side_tool="false" content_ui="combo" />
-      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.18910742" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.20499243" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3295129" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.24962178" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
@@ -580,13 +459,96 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/add.php">
+    <entry file="file://$PROJECT_DIR$/ыфдлфы.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="5" column="20" selection-start-line="5" selection-start-column="20" selection-end-line="5" selection-end-column="20" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/script.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="279" column="29" selection-start-line="279" selection-start-column="29" selection-end-line="279" selection-end-column="29" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/php/add_passport.php">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
-            <marker date="1464380426076" expanded="true" signature="-1:-1" placeholder="INSERT INTO ..." />
+            <marker date="1473019200744" expanded="true" signature="773:1247" placeholder="INSERT INTO ..." />
+            <marker date="1473019200744" expanded="true" signature="1279:1327" placeholder="SELECT id FR..passport..." />
+            <marker date="1473019200744" expanded="true" signature="1493:1586" placeholder="INSERT INTO ..." />
+            <marker date="1473019200744" expanded="true" signature="1669:1751" placeholder="INSERT INTO ..." />
+            <marker date="1473019200744" expanded="true" signature="1902:1983" placeholder="INSERT INTO ..." />
+            <marker date="1473019200744" expanded="true" signature="1902:2028" placeholder="INSERT INTO ..." />
+            <marker date="1473019200744" expanded="true" signature="2222:2362" placeholder="INSERT INTO ..." />
+            <marker date="1473019200744" expanded="true" signature="2570:2717" placeholder="INSERT INTO ..." />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/main.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="117" column="18" selection-start-line="117" selection-start-column="13" selection-end-line="117" selection-end-column="18" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="26" column="0" selection-start-line="26" selection-start-column="0" selection-end-line="26" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/php/number_jobs.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="4" column="22" selection-start-line="4" selection-start-column="22" selection-end-line="4" selection-end-column="22" />
+          <folding>
+            <marker date="1472902449337" expanded="true" signature="78:121" placeholder="SELECT numbe..audience..." />
+            <marker date="1472902449337" expanded="true" signature="78:122" placeholder="SELECT numbe..audience..." />
+            <marker date="1472902449337" expanded="true" signature="78:134" placeholder="SELECT numbe..audience..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="310" column="58" selection-start-line="310" selection-start-column="58" selection-end-line="310" selection-end-column="58" />
+          <folding>
+            <marker date="1472908004401" expanded="true" signature="181:203" placeholder="SELECT * FRO..audience..." />
+            <marker date="1472908004401" expanded="true" signature="545:577" placeholder="SELECT * FRO..spr_t_cabinet_fgos..." />
+            <marker date="1472908004401" expanded="true" signature="919:942" placeholder="SELECT * FRO..spr_ppssz..." />
+            <marker date="1472908004401" expanded="true" signature="1277:1305" placeholder="SELECT * FRO..spr_department..." />
+            <marker date="1472908004401" expanded="true" signature="1632:1669" placeholder="SELECT * FRO..foundation_offices_fgos..." />
+            <marker date="1472908004401" expanded="true" signature="3131:3154" placeholder="SELECT * FRO..spr_instr..." />
+            <marker date="1472908004401" expanded="true" signature="3619:3673" placeholder="SELECT * FRO..spr_instr..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/header.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="12" column="4" selection-start-line="12" selection-start-column="4" selection-end-line="12" selection-end-column="4" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/add.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
         </state>
       </provider>
     </entry>
@@ -878,14 +840,15 @@
               <point x="130.04999999999973" y="103.0" />
             </edge>
           </edges>
-          <settings layout="Hierarchic Group" zoom="0.7000000000000001" x="-366.14285714285717" y="1008.191858957739" />
+          <settings layout="Hierarchic Group" zoom="0.7000000000000001" x="-366.0" y="1008.0" />
           <SelectedNodes>
             <node>b646c374-86c8-41ed-b904-5ed59ba10751.table:passport7.passport</node>
           </SelectedNodes>
           <Categories>
-            <Category>Key columns</Category>
             <Category>Columns</Category>
+            <Category>Key columns</Category>
           </Categories>
+          <SCOPE>All</SCOPE>
         </state>
       </provider>
     </entry>
@@ -893,20 +856,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="dbDummy://dbtable:/677f8588/b646c374-86c8-41ed-b904-5ed59ba10751/passport7..passport">
-      <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
-        <state>
-          <filtering enabled="true" />
-        </state>
-      </provider>
-      <provider editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -914,29 +863,13 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="-0.0">
           <caret line="0" column="43" selection-start-line="0" selection-start-column="43" selection-end-line="0" selection-end-column="43" />
-          <folding>
-            <marker date="1472902449317" expanded="true" signature="-1:-1" placeholder="SELECT numbe..audience..." />
-          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/header.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="36.03846">
-          <caret line="12" column="4" selection-start-line="12" selection-start-column="4" selection-end-line="12" selection-end-column="4" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="dbDummy://dbtable:/677f8588/b646c374-86c8-41ed-b904-5ed59ba10751/passport7..academic_year">
-      <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
-        <state>
-          <filtering enabled="true" />
-        </state>
-      </provider>
-      <provider editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <caret line="12" column="4" selection-start-line="12" selection-start-column="4" selection-end-line="12" selection-end-column="4" />
           <folding />
         </state>
       </provider>
@@ -945,23 +878,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="-0.0">
           <caret line="0" column="23" selection-start-line="0" selection-start-column="23" selection-end-line="0" selection-end-column="23" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="dbDummy://dbtable:/677f8588/b646c374-86c8-41ed-b904-5ed59ba10751/passport7..spr_instr">
-      <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
-        <state>
-          <filtering>
-            <filter text="name = 'СМК-ИОТ-01-12 Инструкция по оказанию доврачебной помощи при несчастных случаях'" />
-            <filter text="name = 'СМК-С-К-РИ-39-12 По охране труда при проведении занятий в лаборатории «Постижерных работ и моделирования причесок»'" />
-          </filtering>
-        </state>
-      </provider>
-      <provider editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -969,7 +885,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -977,13 +892,12 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/php/number_jobs.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-2.6153846">
+        <state vertical-scroll-proportion="0.0">
           <caret line="4" column="22" selection-start-line="4" selection-start-column="22" selection-end-line="4" selection-end-column="22" />
           <folding>
             <marker date="1472902449337" expanded="true" signature="78:121" placeholder="SELECT numbe..audience..." />
@@ -997,7 +911,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1009,17 +922,27 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/main.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="117" column="18" selection-start-line="117" selection-start-column="13" selection-end-line="117" selection-end-column="18" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="26" column="0" selection-start-line="26" selection-start-column="0" selection-end-line="26" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/index.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-4.6545453">
-          <caret line="310" column="58" selection-start-line="310" selection-start-column="58" selection-end-line="310" selection-end-column="58" />
+        <state vertical-scroll-proportion="-2.2727273">
+          <caret line="300" column="41" selection-start-line="300" selection-start-column="37" selection-end-line="300" selection-end-column="41" />
           <folding>
-            <element signature="n#style#0;n#input#1;n#form#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#h1#13;n#form#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#h1#14;n#form#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#h1#15;n#form#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#td#0;n#tr#0;n#table#7;n#form#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#h1#16;n#form#0;n#!!top" expanded="true" />
             <marker date="1472908004401" expanded="true" signature="181:203" placeholder="SELECT * FRO..audience..." />
             <marker date="1472908004401" expanded="true" signature="545:577" placeholder="SELECT * FRO..spr_t_cabinet_fgos..." />
             <marker date="1472908004401" expanded="true" signature="919:942" placeholder="SELECT * FRO..spr_ppssz..." />
@@ -1033,25 +956,26 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/js/script.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-12.481482">
-          <caret line="137" column="185" selection-start-line="137" selection-start-column="185" selection-end-line="137" selection-end-column="185" />
+        <state vertical-scroll-proportion="-31.962963">
+          <caret line="326" column="33" selection-start-line="326" selection-start-column="33" selection-end-line="326" selection-end-column="33" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/main.css">
+    <entry file="file://$PROJECT_DIR$/php/add_passport.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-15.068966">
-          <caret line="117" column="18" selection-start-line="117" selection-start-column="13" selection-end-line="117" selection-end-column="18" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/style.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.5561358">
-          <caret line="26" column="0" selection-start-line="26" selection-start-column="0" selection-end-line="26" selection-end-column="0" />
-          <folding />
+        <state vertical-scroll-proportion="0.810241">
+          <caret line="82" column="80" selection-start-line="82" selection-start-column="80" selection-end-line="82" selection-end-column="80" />
+          <folding>
+            <marker date="1473019200744" expanded="true" signature="773:1247" placeholder="INSERT INTO ..." />
+            <marker date="1473019200744" expanded="true" signature="1279:1327" placeholder="SELECT id FR..passport..." />
+            <marker date="1473019200744" expanded="true" signature="1493:1586" placeholder="INSERT INTO ..." />
+            <marker date="1473019200744" expanded="true" signature="1669:1751" placeholder="INSERT INTO ..." />
+            <marker date="1473019200744" expanded="true" signature="1902:1983" placeholder="INSERT INTO ..." />
+            <marker date="1473019200744" expanded="true" signature="1902:2028" placeholder="INSERT INTO ..." />
+            <marker date="1473019200744" expanded="true" signature="2222:2362" placeholder="INSERT INTO ..." />
+            <marker date="1473019200744" expanded="true" signature="2570:2717" placeholder="INSERT INTO ..." />
+          </folding>
         </state>
       </provider>
     </entry>
