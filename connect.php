@@ -3,3 +3,4 @@
 	mysql_select_db("passport7");
 	mysql_query("SET NAMES 'utf8'");
 ?>
+sdfses
