@@ -39,6 +39,9 @@ $result = mysql_query($sql) or die(mysql_error());
 		<td>
 			<a href='editPassport.php?passport=<?echo "$data[id]"; ?>'>Изменить</a>
 		</td>
+		<td>
+			<a href="showPassport.php?passport=<?echo "$data[id]";?>">Просмотр</a>
+		</td>
 	</tr>
 
 	

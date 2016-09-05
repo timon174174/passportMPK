@@ -126,18 +126,25 @@ $(document).ready(function(){
 
 	})
 	$('#add_per_tbl1').click(function(){
-
 		$(".per_tbl1").append('<tr><td><input type="text" name="material_tehn_name"/></td><td><input type="text" name="material_tehn_count"/></td><td><input type="text" name="material_tehn_year"/></td><td><a class="delete_row">Удалить</a></td></tr>');
-
-
 		$(".delete_row").click(function(){
-
 			$(this).parent().parent().remove();
 		});
 	});
 	$('#add_perspect').click(function(){
-
 		$(".perspect").append('<tr><td><input type="text" name="perspect_name"/></td><td><input type="text" name="perspect_count"/></td><td><input type="text" name="perspect_description"/></td><td><a class="delete_row">Удалить</a></td></tr>');
+		$(".delete_row").click(function(){
+			$(this).parent().parent().remove();
+		});
+	});
+	$('#wear_btn').click(function(){
+
+		$("#wear").append('<tr>'+
+			'<td><input type="text" name="wear_number"></td>'+
+			'<td><input type="text" name="wear_name"></td>'+
+			'<td><input type="text" name="wear_count"></td>'+
+			'<td><a class="delete_row">Удалить</a></td>'+
+			'</tr>');
 
 
 		$(".delete_row").click(function(){
@@ -145,6 +152,22 @@ $(document).ready(function(){
 			$(this).parent().parent().remove();
 		});
 	});
+
+	$('#shum_btn').click(function(){
+
+		$("#shum_tbl").append('<tr>'+
+			'<td></td>'+
+			'<td><input type="text" name="ist_shum"></td>'+
+			'<td><a class="delete_row">Удалить</a></td>'+
+			'</tr>');
+
+
+		$(".delete_row").click(function(){
+
+			$(this).parent().parent().remove();
+		});
+	});
+
 
 	$("#spr_ppssz").change(function(){
 		$("#disciplines_div").html("");
@@ -225,13 +248,16 @@ $(document).ready(function(){
 		var fact_shum = $("input[name='fact_shum']").val();
 		var ist_shum = $("input[name='ist_shum']").val();
 		var type_light = $("input[name='type_light']").val();
-		var fact_light = $("input[name='fact_light']").val();
+		var fact_light_estestvennaya = $("input[name='fact_light_estestvennaya']").val();
+		var fact_light_iskustvennaya = $("input[name='fact_light_iskustvennay']").val();
 		var date_priem = $("input[name='date_priem']").val();
 		var allDisciplines = new Array;
 		var instr = new Array;
 		var plakat = new Object();
 		var mat_tehn = new Object();
 		var perspect = new Object();
+		var wear = new Object();
+		var shum = new Object();
 		
 		$.each(solDisciplines.getSelection(), function(index, value) {
 			allDisciplines[index] = value["value"];
@@ -241,53 +267,65 @@ $(document).ready(function(){
 		});
 			var i = 1;
 		$.each($("input[name='plakat_name']"), function (index, value) {
-
 			plakat['['+i+'][name]'] = $(this).val();
-
 			i++;
 		});
 		i = 1;
 		$.each($("input[name='plakat_count']"), function (index, value) {
-
 			plakat['['+i+'][count]'] = $(this).val();
 			i++;
 		});
 		i=1;
 		$.each($("input[name='material_tehn_name']"), function (index, value) {
-
 			mat_tehn['['+i+'][name]'] = $(this).val();
 			i++;
 		});
 		i=1;
 		$.each($("input[name='material_tehn_count']"), function (index, value) {
-
 			mat_tehn['['+i+'][count]'] = $(this).val();
 			i++;
 		});
 		i=1;
 		$.each($("input[name='material_tehn_year']"), function (index, value) {
-
 			mat_tehn['['+i+'][year]'] = $(this).val();
 			i++;
 		});
 		i=1;
 		$.each($("input[name='perspect_name']"), function (index, value) {
-
 			perspect['['+i+'][name]'] = $(this).val();
 			i++;
 		});
 		i=1;
 		$.each($("input[name='perspect_count']"), function (index, value) {
-
 			perspect['['+i+'][count]'] = $(this).val();
 			i++;
 		});
 		i=1;
 		$.each($("input[name='perspect_description']"), function (index, value) {
-
 			perspect['['+i+'][description]'] = $(this).val();
 			i++;
 		});
+		i=1;
+		$.each($("input[name='wear_number']"), function (index, value) {
+			wear['['+i+'][number]'] = $(this).val();
+			i++;
+		});
+		i=1;
+		$.each($("input[name='wear_name']"), function (index, value) {
+			wear['['+i+'][name]'] = $(this).val();
+			i++;
+		});
+		i=1;
+		$.each($("input[name='wear_count']"), function (index, value) {
+			wear['['+i+'][count]'] = $(this).val();
+			i++;
+		});
+		i=1;
+		$.each($("input[name='ist_shum']"), function (index, value) {
+			shum['['+i+'][ist]'] = $(this).val();
+			i++;
+		});
+
 
 
 
@@ -318,13 +356,16 @@ $(document).ready(function(){
 				fact_shum:fact_shum,
 				ist_shum:ist_shum,
 				type_light:type_light,
-				fact_light:fact_light,
+				fact_light_estestvennaya:fact_light_estestvennaya,
+				fact_light_iskustvennaya:fact_light_iskustvennaya,
 				date_priem:date_priem,
 				allDisciplines:allDisciplines,
 				instr:instr,
 				plakat:plakat,
 				mat_tehn:mat_tehn,
-				perspect:perspect
+				perspect:perspect,
+				wear:wear,
+				shum:shum
 			},
 			success: function(data) {
 				

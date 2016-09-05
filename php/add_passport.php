@@ -10,21 +10,23 @@ $journal_date = $_POST['journal_date'];
 $temp_summer = $_POST['temp_summer'];
 $temp_winter = $_POST['temp_winter'];
 $fact_shum = $_POST['fact_shum'];
-$ist_shum = $_POST['ist_shum'];
-$type_light = $_POST['type_light'];
-$fact_light = $_POST['fact_light'];
+$shum = $_POST['shum'];
+
+$fact_light_estestvennaya = $_POST['fact_light_estestvennaya'];
+$fact_light_iskustvennaya = $_POST['fact_light_iskustvennaya'];
 $date_priem = $_POST['date_priem'];
 $allDisciplines = $_POST['allDisciplines'];
 $instr = $_POST['instr'];
 $plakat = $_POST['plakat'];
 $mat_tehn = $_POST['mat_tehn'];
 $perspect = $_POST['perspect'];
+$wear = $_POST['wear'];
 $date = date("Y-m-d H:i:s");
 
 
 
-$sql = "INSERT INTO `passport`(`id_audience`, `spr_t_cabinet_fgos`, `spr_department`, `disciplines`, `spr_ppssz`, `number_protokol`, `journal_date`, `temp_summer`, `temp_winter`, `fact_shum`, `ist_shum`, `type_light`, `fact_light`, `date_priem`,date)
-VALUES ('$id_audience','$spr_t_cabinet_fgos','$spr_department','$disciplines','$spr_ppssz','$number_protokol','$journal_date','$temp_summer','$temp_winter','$fact_shum','$ist_shum','$type_light','$fact_light','$date_priem','$date')";
+$sql = "INSERT INTO `passport`(`id_audience`, `spr_t_cabinet_fgos`, `spr_department`, `disciplines`, `spr_ppssz`, `number_protokol`, `journal_date`, `temp_summer`, `temp_winter`, `fact_shum`,fact_light_estestvennaya,fact_light_iskustvennaya,`date_priem`,date)
+VALUES ('$id_audience','$spr_t_cabinet_fgos','$spr_department','$disciplines','$spr_ppssz','$number_protokol','$journal_date','$temp_summer','$temp_winter','$fact_shum','$fact_light_estestvennaya','$fact_light_iskustvennaya','$date_priem','$date')";
 
 mysql_query($sql);
 
@@ -85,6 +87,30 @@ VALUES ('$id_passport','$perspect_name','$perspect_count','$perspect_description
 		mysql_query($sql);
 	}
 }
+if($wear){
+	foreach($wear as $value){
+		$wear_number = $value['number'];
+		$wear_name = $value['name'];
+		$wear_count = $value['count'];
+		$sql = "INSERT INTO passport_wear(id_passport,number,name,gty)
+VALUES ('$id_passport','$wear_number','$wear_name','$wear_count')";
+
+		mysql_query($sql);
+	}
+}
+if($shum){
+	foreach($shum as $value){
+		$shum_ist = $value['ist'];
+
+		$sql = "INSERT INTO passport_ist_shum(id_passport,ist_shum)
+VALUES ('$id_passport','$shum_ist')";
+		echo $sql;
+
+		mysql_query($sql);
+	}
+}
+
+
 
 
 

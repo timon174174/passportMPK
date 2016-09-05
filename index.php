@@ -242,7 +242,7 @@ include "header.php";
 
 	<h1 style="font-style: italic;">7.3 Уровень шума</h1>
 
-	<table class="soot_temp">
+	<table class="soot_temp" id="shum_tbl">
 		<tr>
 			<td>Фактический уровень шума, Дб</td>
 			<td>Источник шума</td>
@@ -252,6 +252,7 @@ include "header.php";
 			<td><input type="text" name="ist_shum"></td>
 		</tr>
 	</table>
+	<input type="button" value="Добавить источник" id="shum_btn">
 
 
 
@@ -269,12 +270,12 @@ include "header.php";
 		</tr>
 		<tr>
 			<td>Естественная</td>
-			<td><input type="text" name="fact_light" value="">
+			<td><input type="text" name="fact_light_estestvennaya" value="">
             </td>
 		</tr>
         <tr>
 			<td>Искуственная</td>
-			<td><input type="text" name="fact_light" value=""></td>
+			<td><input type="text" name="fact_light_iskustvennaya" value=""></td>
 		</tr>
 
 	</table>
@@ -284,20 +285,16 @@ include "header.php";
 
 	<h1 style="font-style: italic;">7.4 Обеспеченность спец. одеждой и индивидуальными защитными средствами</h1>
 
-	<table class="soot_temp">
+	<table class="soot_temp" id="wear">
 		<tr>
 			<td>№п/п</td>
 			<td>Наименование СО и индивидуальных ЗС</td>
 			<td>Количество</td>
 		</tr>
-		<tr>
-			<td><input type="text"></td>
-			<td><input type="text"></td>
-			<td>
-				<input type="text">
-			</td>
-		</tr>
+
+
 	</table>
+	<input type="button"  value="Добавить" id="wear_btn">
 	<h1 style="font-weight: bold;">8.Перспективное планирование</h1>
 	<h1 style="font-style: italic;">Перечень оборудования,	 электронных плакатов, дидактических средств и прочих материалов</h1>
 	<table class="perspect">
