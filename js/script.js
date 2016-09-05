@@ -385,9 +385,7 @@ $(document).ready(function(){
 
 	});
 	$("select[name='audience']").change(function(){
-		alert("asd");
 		id_audience = $(this).find("option:checked").val();
-		alert(id_audience);
 		$.ajax({
 			type: "POST",
 			url: "php/number_jobs.php",

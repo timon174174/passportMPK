@@ -2,11 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b00d6bde-d65b-44e0-a6a7-a3619eecd949" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/showPassport.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/php/add_passport.php" afterPath="$PROJECT_DIR$/php/add_passport.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/dataSources.xml" afterPath="$PROJECT_DIR$/.idea/dataSources.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.php" afterPath="$PROJECT_DIR$/index.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/passports.php" afterPath="$PROJECT_DIR$/passports.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/base_dump/passport7.sql" afterPath="$PROJECT_DIR$/base_dump/passport7.sql" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/js/script.js" afterPath="$PROJECT_DIR$/js/script.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
@@ -60,11 +56,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="script.js" pinned="false" current-in-tab="false">
+      <file leaf-file-name="script.js" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/js/script.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-11.407408">
-              <caret line="359" column="40" selection-start-line="359" selection-start-column="40" selection-end-line="359" selection-end-column="40" />
+            <state vertical-scroll-proportion="-0.14935064">
+              <caret line="386" column="51" selection-start-line="386" selection-start-column="51" selection-end-line="386" selection-end-column="51" />
               <folding>
                 <element signature="e#2382#2714#0" expanded="false" />
                 <element signature="e#2753#3077#0" expanded="false" />
@@ -124,10 +120,10 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="showPassport.php" pinned="false" current-in-tab="true">
+      <file leaf-file-name="showPassport.php" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/showPassport.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.46084338">
+            <state vertical-scroll-proportion="-5.8846154">
               <caret line="9" column="0" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
               <folding>
                 <marker date="1473037594457" expanded="true" signature="73:106" placeholder="SELECT * FRO..passport..." />
@@ -229,10 +225,10 @@
         <option value="$APPLICATION_CONFIG_DIR$/consoles/db/b646c374-86c8-41ed-b904-5ed59ba10751/console_1.sql" />
         <option value="$PROJECT_DIR$/style.css" />
         <option value="$PROJECT_DIR$/index.php" />
-        <option value="$PROJECT_DIR$/js/script.js" />
         <option value="$PROJECT_DIR$/php/add_passport.php" />
         <option value="$PROJECT_DIR$/passports.php" />
         <option value="$PROJECT_DIR$/showPassport.php" />
+        <option value="$PROJECT_DIR$/js/script.js" />
       </list>
     </option>
   </component>
@@ -466,7 +462,13 @@
       <option name="project" value="LOCAL" />
       <updated>1473019997550</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="Добавление и начало просмотра">
+      <created>1473038013222</created>
+      <option name="number" value="00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1473038013222</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="TodoView">
@@ -480,15 +482,15 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
-    <editor active="false" />
+    <editor active="true" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.17473525" sideWeight="0.5" order="1" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.098335855" sideWeight="0.5" order="1" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32808024" sideWeight="0.5" order="12" side_tool="false" content_ui="tabs" />
       <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.20196672" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.36928105" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.35947713" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.24962178" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3295129" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32980332" sideWeight="0.5" order="0" side_tool="true" content_ui="tabs" />
@@ -541,7 +543,8 @@
     <MESSAGE value="test" />
     <MESSAGE value="Добавление" />
     <MESSAGE value="Дамп" />
-    <option name="LAST_COMMIT_MESSAGE" value="Дамп" />
+    <MESSAGE value="Добавление и начало просмотра" />
+    <option name="LAST_COMMIT_MESSAGE" value="Добавление и начало просмотра" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -1074,33 +1077,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/js/script.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-11.407408">
-          <caret line="359" column="40" selection-start-line="359" selection-start-column="40" selection-end-line="359" selection-end-column="40" />
-          <folding>
-            <element signature="e#2382#2714#0" expanded="false" />
-            <element signature="e#2753#3077#0" expanded="false" />
-            <element signature="e#3028#3072#0" expanded="false" />
-            <element signature="e#3112#3451#0" expanded="false" />
-            <element signature="e#3688#3733#0" expanded="false" />
-            <element signature="e#6237#6285#0" expanded="false" />
-            <element signature="e#6345#6384#0" expanded="false" />
-            <element signature="e#6466#6523#0" expanded="false" />
-            <element signature="e#6601#6659#0" expanded="false" />
-            <element signature="e#6741#6800#0" expanded="false" />
-            <element signature="e#6883#6943#0" expanded="false" />
-            <element signature="e#7025#7084#0" expanded="false" />
-            <element signature="e#7161#7220#0" expanded="false" />
-            <element signature="e#7298#7358#0" expanded="false" />
-            <element signature="e#7442#7508#0" expanded="false" />
-            <element signature="e#7583#7640#0" expanded="false" />
-            <element signature="e#7713#7768#0" expanded="false" />
-            <element signature="e#7842#7898#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/php/add_passport.php">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="-8.6603775">
@@ -1134,13 +1110,40 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/showPassport.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.46084338">
+        <state vertical-scroll-proportion="-5.8846154">
           <caret line="9" column="0" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
           <folding>
             <marker date="1473037594457" expanded="true" signature="73:106" placeholder="SELECT * FRO..passport..." />
             <marker date="1473037594457" expanded="true" signature="73:107" placeholder="SELECT * FRO..passport..." />
             <marker date="1473037594457" expanded="true" signature="73:118" placeholder="SELECT * FRO..passport..." />
             <marker date="1473037594457" expanded="true" signature="73:119" placeholder="SELECT * FRO..passport..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/script.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-0.14935064">
+          <caret line="386" column="51" selection-start-line="386" selection-start-column="51" selection-end-line="386" selection-end-column="51" />
+          <folding>
+            <element signature="e#2382#2714#0" expanded="false" />
+            <element signature="e#2753#3077#0" expanded="false" />
+            <element signature="e#3028#3072#0" expanded="false" />
+            <element signature="e#3112#3451#0" expanded="false" />
+            <element signature="e#3688#3733#0" expanded="false" />
+            <element signature="e#6237#6285#0" expanded="false" />
+            <element signature="e#6345#6384#0" expanded="false" />
+            <element signature="e#6466#6523#0" expanded="false" />
+            <element signature="e#6601#6659#0" expanded="false" />
+            <element signature="e#6741#6800#0" expanded="false" />
+            <element signature="e#6883#6943#0" expanded="false" />
+            <element signature="e#7025#7084#0" expanded="false" />
+            <element signature="e#7161#7220#0" expanded="false" />
+            <element signature="e#7298#7358#0" expanded="false" />
+            <element signature="e#7442#7508#0" expanded="false" />
+            <element signature="e#7583#7640#0" expanded="false" />
+            <element signature="e#7713#7768#0" expanded="false" />
+            <element signature="e#7842#7898#0" expanded="false" />
           </folding>
         </state>
       </provider>

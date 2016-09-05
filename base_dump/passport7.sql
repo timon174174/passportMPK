@@ -3,7 +3,7 @@
 -- http://www.phpmyadmin.net
 --
 -- Хост: 127.0.0.1:3306
--- Время создания: Сен 04 2016 г., 23:12
+-- Время создания: Сен 05 2016 г., 04:14
 -- Версия сервера: 5.5.45
 -- Версия PHP: 5.3.29
 
@@ -2385,79 +2385,11 @@ CREATE TABLE IF NOT EXISTS `passport` (
   `temp_summer` text NOT NULL,
   `temp_winter` text NOT NULL,
   `fact_shum` int(11) NOT NULL,
-  `ist_shum` varchar(20) NOT NULL,
-  `type_light` varchar(20) NOT NULL,
-  `fact_light` int(11) NOT NULL,
+  `fact_light_estestvennaya` int(11) NOT NULL,
+  `fact_light_iskustvennaya` int(11) NOT NULL,
   `date_priem` varchar(20) NOT NULL,
   `date` text NOT NULL
-) ENGINE=InnoDB AUTO_INCREMENT=63 DEFAULT CHARSET=utf8;
-
---
--- Дамп данных таблицы `passport`
---
-
-INSERT INTO `passport` (`id`, `id_audience`, `id_foundation`, `spr_t_cabinet_fgos`, `spr_department`, `disciplines`, `spr_ppssz`, `number_protokol`, `journal_date`, `temp_summer`, `temp_winter`, `fact_shum`, `ist_shum`, `type_light`, `fact_light`, `date_priem`, `date`) VALUES
-(1, 8, NULL, 5, 3, 6, '9', '4,20.03.2013', '2016-07-08', '23', '10', 34, 'ккыва', 'свет', 78, '2016-07-02', ''),
-(3, 8, NULL, 5, 3, 1, '9', '', '', '', '', 0, '', '', 0, '', ''),
-(4, 8, NULL, 5, 3, 1, '9', '', '', '', '', 0, '', '', 0, '', ''),
-(5, 1, NULL, 1, 1, 74, '1', '', '', '', '', 0, '', '', 0, '', ''),
-(6, 1, NULL, 1, 1, 74, '1', '', '', '', '', 0, '', '', 0, '', ''),
-(7, 1, NULL, 1, 1, 74, '1', '', '', '', '', 0, '', '', 0, '', ''),
-(8, 1, NULL, 1, 1, 74, '1', '', '', '', '', 0, '', '', 0, '', ''),
-(9, 1, NULL, 1, 1, 74, '1', '', '', '', '', 0, '', '', 0, '', ''),
-(10, 1, NULL, 1, 1, 74, '1', '', '', '', '', 0, '', '', 0, '', ''),
-(11, 1, NULL, 1, 1, 74, '1', '', '', '', '', 0, '', '', 0, '', ''),
-(12, 1, NULL, 1, 1, 74, '1', '', '', '', '', 0, '', '', 0, '', ''),
-(13, 1, NULL, 1, 1, 74, '1', '', '', '', '', 0, '', '', 0, '', ''),
-(14, 8, NULL, 5, 3, 263, '9', '', '', '', '', 0, '', '', 0, '', ''),
-(15, 1, NULL, 1, 1, 74, '1', '', '', '', '', 0, '', '', 0, '', ''),
-(16, 1, NULL, 1, 1, 74, '1', '', '', '', '', 0, '', '', 0, '', ''),
-(17, 8, NULL, 5, 3, 263, '9', '', '', '', '', 0, '', '', 0, '', ''),
-(18, 8, NULL, 5, 3, 263, '9', '', '', '', '', 0, '', '', 0, '', ''),
-(19, 8, NULL, 5, 3, 263, '9', '', '', '', '', 0, '', '', 0, '', ''),
-(20, 1, NULL, 1, 1, 74, '1', '', '', '', '', 0, '', '', 0, '', ''),
-(21, 1, NULL, 1, 1, 74, '1', '', '', '', '', 0, '', '', 0, '', ''),
-(22, 8, NULL, 5, 3, 263, '9', '', '', '', '', 0, '', '', 0, '', ''),
-(23, 1, NULL, 1, 1, 74, '1', '', '', '', '', 0, '', '', 0, '', ''),
-(24, 1, NULL, 1, 1, 74, '1', '', '', '', '', 0, '', '', 0, '', ''),
-(25, 1, NULL, 1, 1, 74, '1', '', '', '', '', 0, '', '', 0, '', ''),
-(26, 1, NULL, 1, 1, 74, '1', '', '', '', '', 0, '', '', 0, '', ''),
-(27, 8, NULL, 1, 3, 249, '9', '', '', '', '', 0, '', '', 0, '', ''),
-(28, 1, NULL, 1, 1, 74, '1', '', '', '', '', 0, '', '', 0, '', ''),
-(29, 1, NULL, 1, 1, 74, '1', '', '', '', '', 0, '', '', 0, '', '2016-09-04 21:54:36'),
-(30, 1, NULL, 1, 1, 74, '1', '', '', '', '', 0, '', '', 0, '', '2016-09-04 22:00:23'),
-(31, 1, NULL, 1, 1, 74, '1', '', '', '', '', 0, '', '', 0, '', '2016-09-04 22:02:08'),
-(32, 1, NULL, 1, 1, 74, '1', '', '', '', '', 0, '', '', 0, '', '2016-09-04 22:02:38'),
-(33, 1, NULL, 1, 1, 74, '1', '', '', '', '', 0, '', '', 0, '', '2016-09-04 22:14:32'),
-(34, 1, NULL, 1, 1, 74, '1', '', '', '', '', 0, '', '', 0, '', '2016-09-04 22:15:25'),
-(35, 1, NULL, 1, 1, 74, '1', '', '', '', '', 0, '', '', 0, '', '2016-09-04 22:15:59'),
-(36, 1, NULL, 1, 1, 74, '1', '', '', '', '', 0, '', '', 0, '', '2016-09-04 22:16:35'),
-(37, 1, NULL, 1, 1, 74, '1', '', '', '', '', 0, '', '', 0, '', '2016-09-04 22:17:15'),
-(38, 1, NULL, 1, 1, 74, '1', '', '', '', '', 0, '', '', 0, '', '2016-09-04 22:17:53'),
-(39, 1, NULL, 1, 1, 74, '1', '', '', '', '', 0, '', '', 0, '', '2016-09-04 22:18:09'),
-(40, 1, NULL, 1, 1, 74, '1', '', '', '', '', 0, '', '', 0, '', '2016-09-04 22:19:47'),
-(41, 1, NULL, 1, 1, 74, '1', '', '', '', '', 0, '', '', 0, '', '2016-09-04 22:21:40'),
-(42, 1, NULL, 1, 1, 74, '1', '', '', '', '', 0, '', '', 0, '', '2016-09-04 22:22:01'),
-(43, 1, NULL, 1, 1, 74, '1', '', '', '', '', 0, '', '', 0, '', '2016-09-04 22:22:35'),
-(44, 1, NULL, 1, 1, 74, '1', '', '', '', '', 0, '', '', 0, '', '2016-09-04 22:23:11'),
-(45, 1, NULL, 1, 1, 74, '1', '', '', '', '', 0, '', '', 0, '', '2016-09-04 22:23:43'),
-(46, 1, NULL, 1, 1, 74, '1', '', '', '', '', 0, '', '', 0, '', '2016-09-04 22:24:18'),
-(47, 1, NULL, 1, 1, 74, '1', '', '', '', '', 0, '', '', 0, '', '2016-09-04 22:24:41'),
-(48, 1, NULL, 1, 1, 74, '1', '', '', '', '', 0, '', '', 0, '', '2016-09-04 22:24:53'),
-(49, 1, NULL, 1, 1, 74, '1', '', '', '', '', 0, '', '', 0, '', '2016-09-04 22:25:19'),
-(50, 1, NULL, 1, 1, 74, '1', '', '', '', '', 0, '', '', 0, '', '2016-09-04 22:25:37'),
-(51, 1, NULL, 1, 1, 74, '1', '', '', '', '', 0, '', '', 0, '', '2016-09-04 22:37:51'),
-(52, 1, NULL, 1, 1, 74, '1', '', '', '', '', 0, '', '', 0, '', '2016-09-04 22:38:27'),
-(53, 1, NULL, 1, 1, 74, '1', '', '', '', '', 0, '', '', 0, '', '2016-09-04 22:39:01'),
-(54, 1, NULL, 1, 1, 74, '1', '', '', '', '', 0, '', '', 0, '', '2016-09-04 22:39:40'),
-(55, 1, NULL, 1, 1, 74, '1', '', '', '', '', 0, '', '', 0, '', '2016-09-04 22:39:45'),
-(56, 1, NULL, 1, 1, 74, '1', '', '', '', '', 0, '', '', 0, '', '2016-09-04 22:39:51'),
-(57, 1, NULL, 1, 1, 74, '1', '', '', '', '', 0, '', '', 0, '', '2016-09-04 22:51:36'),
-(58, 1, NULL, 1, 1, 74, '1', '', '', '', '', 0, '', '', 0, '', '2016-09-04 22:52:40'),
-(59, 1, NULL, 1, 1, 74, '1', '', '', '', '', 0, '', '', 0, '', '2016-09-04 22:52:58'),
-(60, 1, NULL, 1, 1, 74, '1', '', '', '', '', 0, '', '', 0, '', '2016-09-04 22:53:18'),
-(61, 1, NULL, 1, 1, 74, '1', '', '', '', '', 0, '', '', 0, '', '2016-09-04 23:00:16'),
-(62, 1, NULL, 1, 1, 74, '1', '', '', '', '', 0, '', '', 0, '', '2016-09-04 23:00:33');
+) ENGINE=InnoDB DEFAULT CHARSET=utf8;
 
 -- --------------------------------------------------------
 
@@ -2470,32 +2402,7 @@ CREATE TABLE IF NOT EXISTS `passport_didact_mat` (
   `id_passport` bigint(20) unsigned NOT NULL,
   `didact_mat` text NOT NULL,
   `didact_mat_gty` int(11) NOT NULL
-) ENGINE=InnoDB AUTO_INCREMENT=20 DEFAULT CHARSET=utf8;
-
---
--- Дамп данных таблицы `passport_didact_mat`
---
-
-INSERT INTO `passport_didact_mat` (`id`, `id_passport`, `didact_mat`, `didact_mat_gty`) VALUES
-(1, 35, '', 0),
-(2, 36, '', 0),
-(3, 37, '', 0),
-(4, 38, '', 0),
-(5, 39, '', 0),
-(6, 40, '', 0),
-(7, 41, '', 0),
-(8, 42, '', 0),
-(9, 43, '', 0),
-(10, 44, '', 0),
-(11, 45, '', 0),
-(12, 53, 'kdgmkl', 0),
-(13, 53, 'klrgmkl', 0),
-(14, 54, 'kdgmkl', 0),
-(15, 54, 'klrgmkl', 0),
-(16, 55, 'kdgmkl', 0),
-(17, 55, 'klrgmkl', 0),
-(18, 56, 'kdgmkl', 0),
-(19, 56, 'klrgmkl', 0);
+) ENGINE=InnoDB DEFAULT CHARSET=utf8;
 
 -- --------------------------------------------------------
 
@@ -2509,21 +2416,7 @@ CREATE TABLE IF NOT EXISTS `passport_didact_sredstva` (
   `name` text NOT NULL,
   `gty` int(11) NOT NULL,
   `year` text NOT NULL
-) ENGINE=InnoDB AUTO_INCREMENT=9 DEFAULT CHARSET=utf8;
-
---
--- Дамп данных таблицы `passport_didact_sredstva`
---
-
-INSERT INTO `passport_didact_sredstva` (`id`, `id_passport`, `name`, `gty`, `year`) VALUES
-(1, 57, '', 0, 'grlkm'),
-(2, 57, '', 0, 'glrkmgkl'),
-(3, 58, 'kdfmslk', 0, 'grlkm'),
-(4, 58, 'rklgmlkgr', 0, 'glrkmgkl'),
-(5, 59, 'ds,fk', 0, 'lkgrmlk'),
-(6, 59, 'lkgmrklrm', 0, 'lkgmlk'),
-(7, 60, 'ds,fk', 3, 'lkgrmlk'),
-(8, 60, 'lkgmrklrm', 0, 'lkgmlk');
+) ENGINE=InnoDB DEFAULT CHARSET=utf8;
 
 -- --------------------------------------------------------
 
@@ -2536,17 +2429,6 @@ CREATE TABLE IF NOT EXISTS `passport_disciplines` (
   `id_passport` bigint(20) unsigned NOT NULL
 ) ENGINE=InnoDB DEFAULT CHARSET=utf8;
 
---
--- Дамп данных таблицы `passport_disciplines`
---
-
-INSERT INTO `passport_disciplines` (`id_discipline`, `id_passport`) VALUES
-(106, 25),
-(108, 25),
-(106, 26),
-(109, 26),
-(110, 26);
-
 -- --------------------------------------------------------
 
 --
@@ -2558,14 +2440,17 @@ CREATE TABLE IF NOT EXISTS `passport_instr` (
   `id_passport` bigint(20) unsigned NOT NULL
 ) ENGINE=InnoDB DEFAULT CHARSET=utf8;
 
+-- --------------------------------------------------------
+
 --
--- Дамп данных таблицы `passport_instr`
+-- Структура таблицы `passport_ist_shum`
 --
 
-INSERT INTO `passport_instr` (`id_instr`, `id_passport`) VALUES
-(18, 26),
-(24, 26),
-(28, 26);
+CREATE TABLE IF NOT EXISTS `passport_ist_shum` (
+  `id` bigint(20) unsigned NOT NULL,
+  `id_passport` bigint(20) unsigned NOT NULL,
+  `ist_shum` text NOT NULL
+) ENGINE=InnoDB DEFAULT CHARSET=utf8;
 
 -- --------------------------------------------------------
 
@@ -2579,17 +2464,21 @@ CREATE TABLE IF NOT EXISTS `passport_perspect` (
   `name` text NOT NULL,
   `gty` int(11) NOT NULL,
   `description` text NOT NULL
-) ENGINE=InnoDB AUTO_INCREMENT=5 DEFAULT CHARSET=utf8;
+) ENGINE=InnoDB DEFAULT CHARSET=utf8;
+
+-- --------------------------------------------------------
 
 --
--- Дамп данных таблицы `passport_perspect`
+-- Структура таблицы `passport_wear`
 --
 
-INSERT INTO `passport_perspect` (`id`, `id_passport`, `name`, `gty`, `description`) VALUES
-(1, 61, 'fkrmglm', 0, 'lkgmtkl'),
-(2, 61, 'lkfmlkth', 0, 'kmtlkh'),
-(3, 62, 'fkrmglm', 5, 'lkgmtkl'),
-(4, 62, 'lkfmlkth', 3, 'kmtlkh');
+CREATE TABLE IF NOT EXISTS `passport_wear` (
+  `id` bigint(20) unsigned NOT NULL,
+  `id_passport` bigint(20) unsigned NOT NULL,
+  `number` int(11) NOT NULL,
+  `name` text NOT NULL,
+  `gty` int(11) NOT NULL
+) ENGINE=InnoDB DEFAULT CHARSET=utf8;
 
 -- --------------------------------------------------------
 
@@ -6681,10 +6570,25 @@ ALTER TABLE `passport_instr`
   ADD KEY `id_passport` (`id_passport`);
 
 --
+-- Индексы таблицы `passport_ist_shum`
+--
+ALTER TABLE `passport_ist_shum`
+  ADD UNIQUE KEY `id` (`id`),
+  ADD KEY `id_passport` (`id_passport`);
+
+--
 -- Индексы таблицы `passport_perspect`
 --
 ALTER TABLE `passport_perspect`
-  ADD UNIQUE KEY `id` (`id`);
+  ADD UNIQUE KEY `id` (`id`),
+  ADD KEY `id_passport` (`id_passport`);
+
+--
+-- Индексы таблицы `passport_wear`
+--
+ALTER TABLE `passport_wear`
+  ADD UNIQUE KEY `id` (`id`),
+  ADD KEY `id_passport` (`id_passport`);
 
 --
 -- Индексы таблицы `read_disciplines`
@@ -6881,22 +6785,32 @@ ALTER TABLE `indicator_ergonomic`
 -- AUTO_INCREMENT для таблицы `passport`
 --
 ALTER TABLE `passport`
-  MODIFY `id` bigint(20) unsigned NOT NULL AUTO_INCREMENT,AUTO_INCREMENT=63;
+  MODIFY `id` bigint(20) unsigned NOT NULL AUTO_INCREMENT;
 --
 -- AUTO_INCREMENT для таблицы `passport_didact_mat`
 --
 ALTER TABLE `passport_didact_mat`
-  MODIFY `id` bigint(20) unsigned NOT NULL AUTO_INCREMENT,AUTO_INCREMENT=20;
+  MODIFY `id` bigint(20) unsigned NOT NULL AUTO_INCREMENT;
 --
 -- AUTO_INCREMENT для таблицы `passport_didact_sredstva`
 --
 ALTER TABLE `passport_didact_sredstva`
-  MODIFY `id` bigint(20) unsigned NOT NULL AUTO_INCREMENT,AUTO_INCREMENT=9;
+  MODIFY `id` bigint(20) unsigned NOT NULL AUTO_INCREMENT;
+--
+-- AUTO_INCREMENT для таблицы `passport_ist_shum`
+--
+ALTER TABLE `passport_ist_shum`
+  MODIFY `id` bigint(20) unsigned NOT NULL AUTO_INCREMENT;
 --
 -- AUTO_INCREMENT для таблицы `passport_perspect`
 --
 ALTER TABLE `passport_perspect`
-  MODIFY `id` bigint(20) unsigned NOT NULL AUTO_INCREMENT,AUTO_INCREMENT=5;
+  MODIFY `id` bigint(20) unsigned NOT NULL AUTO_INCREMENT;
+--
+-- AUTO_INCREMENT для таблицы `passport_wear`
+--
+ALTER TABLE `passport_wear`
+  MODIFY `id` bigint(20) unsigned NOT NULL AUTO_INCREMENT;
 --
 -- AUTO_INCREMENT для таблицы `read_disciplines`
 --
@@ -7078,6 +6992,24 @@ ALTER TABLE `passport_disciplines`
 ALTER TABLE `passport_instr`
   ADD CONSTRAINT `passport_instr_ibfk_1` FOREIGN KEY (`id_passport`) REFERENCES `passport` (`id`) ON UPDATE CASCADE,
   ADD CONSTRAINT `passport_instr_ibfk_2` FOREIGN KEY (`id_instr`) REFERENCES `spr_instr` (`id`) ON UPDATE CASCADE;
+
+--
+-- Ограничения внешнего ключа таблицы `passport_ist_shum`
+--
+ALTER TABLE `passport_ist_shum`
+  ADD CONSTRAINT `passport_ist_shum_ibfk_1` FOREIGN KEY (`id_passport`) REFERENCES `passport` (`id`) ON UPDATE CASCADE;
+
+--
+-- Ограничения внешнего ключа таблицы `passport_perspect`
+--
+ALTER TABLE `passport_perspect`
+  ADD CONSTRAINT `passport_perspect_ibfk_1` FOREIGN KEY (`id_passport`) REFERENCES `passport` (`id`) ON UPDATE CASCADE;
+
+--
+-- Ограничения внешнего ключа таблицы `passport_wear`
+--
+ALTER TABLE `passport_wear`
+  ADD CONSTRAINT `passport_wear_ibfk_1` FOREIGN KEY (`id_passport`) REFERENCES `passport` (`id`) ON UPDATE CASCADE;
 
 --
 -- Ограничения внешнего ключа таблицы `read_disciplines`
