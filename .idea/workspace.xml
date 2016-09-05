@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b00d6bde-d65b-44e0-a6a7-a3619eecd949" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/base_dump/passport7.sql" afterPath="$PROJECT_DIR$/base_dump/passport7.sql" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/js/script.js" afterPath="$PROJECT_DIR$/js/script.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.gitignore" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/connect.php" afterPath="$PROJECT_DIR$/connect.php" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="passport.ru.iws" />
@@ -46,20 +46,10 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="ыфдлфы.txt" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/ыфдлфы.txt">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
-              <caret line="5" column="20" selection-start-line="5" selection-start-column="20" selection-end-line="5" selection-end-column="20" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="script.js" pinned="false" current-in-tab="true">
+      <file leaf-file-name="script.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/js/script.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-0.14935064">
+            <state vertical-scroll-proportion="0.0">
               <caret line="386" column="51" selection-start-line="386" selection-start-column="51" selection-end-line="386" selection-end-column="51" />
               <folding>
                 <element signature="e#2382#2714#0" expanded="false" />
@@ -85,10 +75,20 @@
           </provider>
         </entry>
       </file>
+      <file leaf-file-name="connect.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/connect.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="-1.6037736">
+              <caret line="5" column="12" selection-start-line="5" selection-start-column="12" selection-end-line="5" selection-end-column="12" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
       <file leaf-file-name="add_passport.php" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/php/add_passport.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-8.6603775">
+            <state vertical-scroll-proportion="-0.0">
               <caret line="27" column="240" selection-start-line="27" selection-start-column="240" selection-end-line="27" selection-end-column="240" />
               <folding>
                 <marker date="1473036923126" expanded="true" signature="846:1345" placeholder="INSERT INTO ..." />
@@ -106,10 +106,20 @@
           </provider>
         </entry>
       </file>
+      <file leaf-file-name=".gitignore" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/.gitignore">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.10759494">
+              <caret line="1" column="0" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
       <file leaf-file-name="passports.php" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/passports.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-5.207547">
+            <state vertical-scroll-proportion="0.0">
               <caret line="42" column="78" selection-start-line="42" selection-start-column="78" selection-end-line="42" selection-end-column="78" />
               <folding>
                 <marker date="1473037172098" expanded="true" signature="33:55" placeholder="SELECT * FRO..passport..." />
@@ -123,7 +133,7 @@
       <file leaf-file-name="showPassport.php" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/showPassport.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-5.8846154">
+            <state vertical-scroll-proportion="0.0">
               <caret line="9" column="0" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
               <folding>
                 <marker date="1473037594457" expanded="true" signature="73:106" placeholder="SELECT * FRO..passport..." />
@@ -131,16 +141,6 @@
                 <marker date="1473037594457" expanded="true" signature="73:118" placeholder="SELECT * FRO..passport..." />
                 <marker date="1473037594457" expanded="true" signature="73:119" placeholder="SELECT * FRO..passport..." />
               </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="main.css" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/main.css">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
-              <caret line="117" column="18" selection-start-line="117" selection-start-column="13" selection-end-line="117" selection-end-column="18" />
-              <folding />
             </state>
           </provider>
         </entry>
@@ -158,7 +158,7 @@
       <file leaf-file-name="number_jobs.php" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/php/number_jobs.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-2.6153846">
+            <state vertical-scroll-proportion="0.0">
               <caret line="4" column="22" selection-start-line="4" selection-start-column="22" selection-end-line="4" selection-end-column="22" />
               <folding>
                 <marker date="1472902449337" expanded="true" signature="78:121" placeholder="SELECT numbe..audience..." />
@@ -172,13 +172,9 @@
       <file leaf-file-name="index.php" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/index.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-2.0365853">
+            <state vertical-scroll-proportion="0.0">
               <caret line="272" column="65" selection-start-line="272" selection-start-column="65" selection-end-line="272" selection-end-column="65" />
               <folding>
-                <element signature="n#style#0;n#h1#13;n#form#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#h1#14;n#form#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#h1#15;n#form#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#h1#16;n#form#0;n#!!top" expanded="true" />
                 <marker date="1473036708579" expanded="true" signature="181:203" placeholder="SELECT * FRO..audience..." />
                 <marker date="1473036708579" expanded="true" signature="545:577" placeholder="SELECT * FRO..spr_t_cabinet_fgos..." />
                 <marker date="1473036708579" expanded="true" signature="919:942" placeholder="SELECT * FRO..spr_ppssz..." />
@@ -187,16 +183,6 @@
                 <marker date="1473036708579" expanded="true" signature="3131:3154" placeholder="SELECT * FRO..spr_instr..." />
                 <marker date="1473036708579" expanded="true" signature="3619:3673" placeholder="SELECT * FRO..spr_instr..." />
               </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="header.php" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/header.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
-              <caret line="12" column="4" selection-start-line="12" selection-start-column="4" selection-end-line="12" selection-end-column="4" />
-              <folding />
             </state>
           </provider>
         </entry>
@@ -229,6 +215,8 @@
         <option value="$PROJECT_DIR$/passports.php" />
         <option value="$PROJECT_DIR$/showPassport.php" />
         <option value="$PROJECT_DIR$/js/script.js" />
+        <option value="$PROJECT_DIR$/.gitignore" />
+        <option value="$PROJECT_DIR$/connect.php" />
       </list>
     </option>
   </component>
@@ -291,6 +279,7 @@
       <sortByType />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -354,7 +343,6 @@
         </subPane>
       </pane>
       <pane id="Scratches" />
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -468,7 +456,13 @@
       <option name="project" value="LOCAL" />
       <updated>1473038013222</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="Убрал вывод в скрипте">
+      <created>1473039574333</created>
+      <option name="number" value="00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1473039574333</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="TodoView">
@@ -482,19 +476,19 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
-    <editor active="true" />
+    <editor active="false" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.098335855" sideWeight="0.5" order="1" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.09984872" sideWeight="0.5" order="1" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32808024" sideWeight="0.5" order="12" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.20196672" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.35947713" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.35947713" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.24962178" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3295129" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32980332" sideWeight="0.5" order="0" side_tool="true" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
@@ -544,7 +538,8 @@
     <MESSAGE value="Добавление" />
     <MESSAGE value="Дамп" />
     <MESSAGE value="Добавление и начало просмотра" />
-    <option name="LAST_COMMIT_MESSAGE" value="Добавление и начало просмотра" />
+    <MESSAGE value="Убрал вывод в скрипте" />
+    <option name="LAST_COMMIT_MESSAGE" value="Убрал вывод в скрипте" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -553,6 +548,137 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/ыфдлфы.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="5" column="20" selection-start-line="5" selection-start-column="20" selection-end-line="5" selection-end-column="20" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/script.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="386" column="51" selection-start-line="386" selection-start-column="51" selection-end-line="386" selection-end-column="51" />
+          <folding>
+            <element signature="e#2382#2714#0" expanded="false" />
+            <element signature="e#2753#3077#0" expanded="false" />
+            <element signature="e#3028#3072#0" expanded="false" />
+            <element signature="e#3112#3451#0" expanded="false" />
+            <element signature="e#3688#3733#0" expanded="false" />
+            <element signature="e#6237#6285#0" expanded="false" />
+            <element signature="e#6345#6384#0" expanded="false" />
+            <element signature="e#6466#6523#0" expanded="false" />
+            <element signature="e#6601#6659#0" expanded="false" />
+            <element signature="e#6741#6800#0" expanded="false" />
+            <element signature="e#6883#6943#0" expanded="false" />
+            <element signature="e#7025#7084#0" expanded="false" />
+            <element signature="e#7161#7220#0" expanded="false" />
+            <element signature="e#7298#7358#0" expanded="false" />
+            <element signature="e#7442#7508#0" expanded="false" />
+            <element signature="e#7583#7640#0" expanded="false" />
+            <element signature="e#7713#7768#0" expanded="false" />
+            <element signature="e#7842#7898#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/connect.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="4" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="4" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/php/add_passport.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="27" column="240" selection-start-line="27" selection-start-column="240" selection-end-line="27" selection-end-column="240" />
+          <folding>
+            <marker date="1473036923126" expanded="true" signature="846:1345" placeholder="INSERT INTO ..." />
+            <marker date="1473036923126" expanded="true" signature="1377:1425" placeholder="SELECT id FR..passport..." />
+            <marker date="1473036923126" expanded="true" signature="1591:1684" placeholder="INSERT INTO ..." />
+            <marker date="1473036923126" expanded="true" signature="1767:1849" placeholder="INSERT INTO ..." />
+            <marker date="1473036923126" expanded="true" signature="2000:2081" placeholder="INSERT INTO ..." />
+            <marker date="1473036923126" expanded="true" signature="2000:2126" placeholder="INSERT INTO ..." />
+            <marker date="1473036923126" expanded="true" signature="2320:2460" placeholder="INSERT INTO ..." />
+            <marker date="1473036923126" expanded="true" signature="2668:2815" placeholder="INSERT INTO ..." />
+            <marker date="1473036923126" expanded="true" signature="2992:3112" placeholder="INSERT INTO ..." />
+            <marker date="1473036923126" expanded="true" signature="3220:3307" placeholder="INSERT INTO ..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/passports.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="42" column="78" selection-start-line="42" selection-start-column="78" selection-end-line="42" selection-end-column="78" />
+          <folding>
+            <marker date="1473037172098" expanded="true" signature="33:55" placeholder="SELECT * FRO..passport..." />
+            <marker date="1473037172098" expanded="true" signature="284:321" placeholder="SELECT numbe..audience..." />
+            <marker date="1473037172098" expanded="true" signature="510:555" placeholder="SELECT name ..spr_t_cabinet_fgos..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/showPassport.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="9" column="0" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
+          <folding>
+            <marker date="1473037594457" expanded="true" signature="73:106" placeholder="SELECT * FRO..passport..." />
+            <marker date="1473037594457" expanded="true" signature="73:107" placeholder="SELECT * FRO..passport..." />
+            <marker date="1473037594457" expanded="true" signature="73:118" placeholder="SELECT * FRO..passport..." />
+            <marker date="1473037594457" expanded="true" signature="73:119" placeholder="SELECT * FRO..passport..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="26" column="0" selection-start-line="26" selection-start-column="0" selection-end-line="26" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/php/number_jobs.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="4" column="22" selection-start-line="4" selection-start-column="22" selection-end-line="4" selection-end-column="22" />
+          <folding>
+            <marker date="1472902449337" expanded="true" signature="78:121" placeholder="SELECT numbe..audience..." />
+            <marker date="1472902449337" expanded="true" signature="78:122" placeholder="SELECT numbe..audience..." />
+            <marker date="1472902449337" expanded="true" signature="78:134" placeholder="SELECT numbe..audience..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="272" column="65" selection-start-line="272" selection-start-column="65" selection-end-line="272" selection-end-column="65" />
+          <folding>
+            <marker date="1473036708579" expanded="true" signature="181:203" placeholder="SELECT * FRO..audience..." />
+            <marker date="1473036708579" expanded="true" signature="545:577" placeholder="SELECT * FRO..spr_t_cabinet_fgos..." />
+            <marker date="1473036708579" expanded="true" signature="919:942" placeholder="SELECT * FRO..spr_ppssz..." />
+            <marker date="1473036708579" expanded="true" signature="1277:1305" placeholder="SELECT * FRO..spr_department..." />
+            <marker date="1473036708579" expanded="true" signature="1632:1669" placeholder="SELECT * FRO..foundation_offices_fgos..." />
+            <marker date="1473036708579" expanded="true" signature="3131:3154" placeholder="SELECT * FRO..spr_instr..." />
+            <marker date="1473036708579" expanded="true" signature="3619:3673" placeholder="SELECT * FRO..spr_instr..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/ыфдлфы.txt">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
@@ -611,7 +737,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="117" column="18" selection-start-line="117" selection-start-column="13" selection-end-line="117" selection-end-column="18" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -640,10 +765,6 @@
         <state vertical-scroll-proportion="0.0">
           <caret line="310" column="58" selection-start-line="310" selection-start-column="58" selection-end-line="310" selection-end-column="58" />
           <folding>
-            <element signature="n#style#0;n#h1#13;n#form#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#h1#14;n#form#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#h1#15;n#form#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#h1#16;n#form#0;n#!!top" expanded="true" />
             <marker date="1473036708579" expanded="true" signature="181:203" placeholder="SELECT * FRO..audience..." />
             <marker date="1473036708579" expanded="true" signature="545:577" placeholder="SELECT * FRO..spr_t_cabinet_fgos..." />
             <marker date="1473036708579" expanded="true" signature="919:942" placeholder="SELECT * FRO..spr_ppssz..." />
@@ -659,7 +780,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="12" column="4" selection-start-line="12" selection-start-column="4" selection-end-line="12" selection-end-column="4" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -667,7 +787,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -971,13 +1090,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/connect.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$APPLICATION_CONFIG_DIR$/consoles/db/b646c374-86c8-41ed-b904-5ed59ba10751/console.sql">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="-0.0">
@@ -989,7 +1101,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="12" column="4" selection-start-line="12" selection-start-column="4" selection-end-line="12" selection-end-column="4" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1025,7 +1136,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="117" column="18" selection-start-line="117" selection-start-column="13" selection-end-line="117" selection-end-column="18" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1039,7 +1149,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/php/number_jobs.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-2.6153846">
+        <state vertical-scroll-proportion="0.0">
           <caret line="4" column="22" selection-start-line="4" selection-start-column="22" selection-end-line="4" selection-end-column="22" />
           <folding>
             <marker date="1472902449337" expanded="true" signature="78:121" placeholder="SELECT numbe..audience..." />
@@ -1059,13 +1169,9 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/index.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-2.0365853">
+        <state vertical-scroll-proportion="0.0">
           <caret line="272" column="65" selection-start-line="272" selection-start-column="65" selection-end-line="272" selection-end-column="65" />
           <folding>
-            <element signature="n#style#0;n#h1#13;n#form#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#h1#14;n#form#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#h1#15;n#form#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#h1#16;n#form#0;n#!!top" expanded="true" />
             <marker date="1473036708579" expanded="true" signature="181:203" placeholder="SELECT * FRO..audience..." />
             <marker date="1473036708579" expanded="true" signature="545:577" placeholder="SELECT * FRO..spr_t_cabinet_fgos..." />
             <marker date="1473036708579" expanded="true" signature="919:942" placeholder="SELECT * FRO..spr_ppssz..." />
@@ -1077,28 +1183,9 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/php/add_passport.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-8.6603775">
-          <caret line="27" column="240" selection-start-line="27" selection-start-column="240" selection-end-line="27" selection-end-column="240" />
-          <folding>
-            <marker date="1473036923126" expanded="true" signature="846:1345" placeholder="INSERT INTO ..." />
-            <marker date="1473036923126" expanded="true" signature="1377:1425" placeholder="SELECT id FR..passport..." />
-            <marker date="1473036923126" expanded="true" signature="1591:1684" placeholder="INSERT INTO ..." />
-            <marker date="1473036923126" expanded="true" signature="1767:1849" placeholder="INSERT INTO ..." />
-            <marker date="1473036923126" expanded="true" signature="2000:2081" placeholder="INSERT INTO ..." />
-            <marker date="1473036923126" expanded="true" signature="2000:2126" placeholder="INSERT INTO ..." />
-            <marker date="1473036923126" expanded="true" signature="2320:2460" placeholder="INSERT INTO ..." />
-            <marker date="1473036923126" expanded="true" signature="2668:2815" placeholder="INSERT INTO ..." />
-            <marker date="1473036923126" expanded="true" signature="2992:3112" placeholder="INSERT INTO ..." />
-            <marker date="1473036923126" expanded="true" signature="3220:3307" placeholder="INSERT INTO ..." />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/passports.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-5.207547">
+        <state vertical-scroll-proportion="0.0">
           <caret line="42" column="78" selection-start-line="42" selection-start-column="78" selection-end-line="42" selection-end-column="78" />
           <folding>
             <marker date="1473037172098" expanded="true" signature="33:55" placeholder="SELECT * FRO..passport..." />
@@ -1110,7 +1197,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/showPassport.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-5.8846154">
+        <state vertical-scroll-proportion="0.0">
           <caret line="9" column="0" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
           <folding>
             <marker date="1473037594457" expanded="true" signature="73:106" placeholder="SELECT * FRO..passport..." />
@@ -1123,7 +1210,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/js/script.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-0.14935064">
+        <state vertical-scroll-proportion="0.0">
           <caret line="386" column="51" selection-start-line="386" selection-start-column="51" selection-end-line="386" selection-end-column="51" />
           <folding>
             <element signature="e#2382#2714#0" expanded="false" />
@@ -1145,6 +1232,49 @@
             <element signature="e#7713#7768#0" expanded="false" />
             <element signature="e#7842#7898#0" expanded="false" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Documents/gitignore_global.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/connect.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-1.6037736">
+          <caret line="5" column="12" selection-start-line="5" selection-start-column="12" selection-end-line="5" selection-end-column="12" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/php/add_passport.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="27" column="240" selection-start-line="27" selection-start-column="240" selection-end-line="27" selection-end-column="240" />
+          <folding>
+            <marker date="1473036923126" expanded="true" signature="846:1345" placeholder="INSERT INTO ..." />
+            <marker date="1473036923126" expanded="true" signature="1377:1425" placeholder="SELECT id FR..passport..." />
+            <marker date="1473036923126" expanded="true" signature="1591:1684" placeholder="INSERT INTO ..." />
+            <marker date="1473036923126" expanded="true" signature="1767:1849" placeholder="INSERT INTO ..." />
+            <marker date="1473036923126" expanded="true" signature="2000:2081" placeholder="INSERT INTO ..." />
+            <marker date="1473036923126" expanded="true" signature="2000:2126" placeholder="INSERT INTO ..." />
+            <marker date="1473036923126" expanded="true" signature="2320:2460" placeholder="INSERT INTO ..." />
+            <marker date="1473036923126" expanded="true" signature="2668:2815" placeholder="INSERT INTO ..." />
+            <marker date="1473036923126" expanded="true" signature="2992:3112" placeholder="INSERT INTO ..." />
+            <marker date="1473036923126" expanded="true" signature="3220:3307" placeholder="INSERT INTO ..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.10759494">
+          <caret line="1" column="0" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
+          <folding />
         </state>
       </provider>
     </entry>
