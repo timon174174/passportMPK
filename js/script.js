@@ -94,8 +94,27 @@ $(document).ready(function(){
 
 	$('#add_per_tbl').click(function(){
 
-		$(".per_tbl").append('<tr><td><input type="text" name="plakat_name"></td><td><input type="text" name="plakat_count"></td><td><a class="delete_row">Удалить</a></td></tr>');
+		$(".per_tbl").append('<tr><td><select name="plakat_name"></select></td><td><input type="text" name="plakat_count"></td><td><a class="delete_row">Удалить</a></td></tr>');
+			audience = $("select[name='audience']>option:selected").val();
 
+		$.ajax({
+			type: "POST",
+			dataType:"json",
+			url: "php/get_spr_tools.php",
+			data: {audience:audience},
+			success: function(data) {
+				var i=0;
+
+				$.each(data, function(index, value){
+					$("select[name='plakat_name']").append("<option value='"+ data[i]['id'] +"'>"+data[i]['name']+"</option>");
+					i++;
+				});
+
+			},
+			error: function(xhr){
+				console.log(xhr);
+			}
+		});
 
 		$(".delete_row").click(function(){
 			
@@ -125,12 +144,7 @@ $(document).ready(function(){
 		
 
 	})
-	$('#add_per_tbl1').click(function(){
-		$(".per_tbl1").append('<tr><td><input type="text" name="material_tehn_name"/></td><td><input type="text" name="material_tehn_count"/></td><td><input type="text" name="material_tehn_year"/></td><td><a class="delete_row">Удалить</a></td></tr>');
-		$(".delete_row").click(function(){
-			$(this).parent().parent().remove();
-		});
-	});
+
 	$('#add_perspect').click(function(){
 		$(".perspect").append('<tr><td><input type="text" name="perspect_name"/></td><td><input type="text" name="perspect_count"/></td><td><input type="text" name="perspect_description"/></td><td><a class="delete_row">Удалить</a></td></tr>');
 		$(".delete_row").click(function(){
