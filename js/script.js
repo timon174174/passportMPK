@@ -94,8 +94,19 @@ $(document).ready(function(){
 
 	$('#add_per_tbl').click(function(){
 
-		$(".per_tbl").append('<tr><td><select name="plakat_name"></select></td><td><input type="text" name="plakat_count"></td><td><a class="delete_row">Удалить</a></td></tr>');
-			audience = $("select[name='audience']>option:selected").val();
+		$(".per_tbl").append('<tr><td><input type="name" name="plakat_name"></td><td><input type="text" name="plakat_count"></td><td><a class="delete_row">Удалить</a></td></tr>');
+
+
+
+
+		$(".delete_row").click(function(){
+			$(this).parent().parent().remove();
+		});
+	});
+
+	$('#add_per_tbl1').click(function(){
+		$(".per_tbl1").append('<tr><td><select name="material_tehn_name"></select></td><td><input type="text" name="material_tehn_count" style="width: 40px"/></td><td><input type="text" name="material_tehn_year" style="width: 60px"/></td><td><a class="delete_row">Удалить</a></td></tr>');
+		audience = $("select[name='audience']>option:selected").val();
 
 		$.ajax({
 			type: "POST",
@@ -106,7 +117,7 @@ $(document).ready(function(){
 				var i=0;
 
 				$.each(data, function(index, value){
-					$("select[name='plakat_name']").append("<option value='"+ data[i]['id'] +"'>"+data[i]['name']+"</option>");
+					$("select[name='material_tehn_name']").append("<option value='"+ data[i]['id'] +"'>"+data[i]['name']+"</option>");
 					i++;
 				});
 
@@ -117,7 +128,7 @@ $(document).ready(function(){
 		});
 
 		$(".delete_row").click(function(){
-			
+
 			$(this).parent().parent().remove();
 		});
 	});
