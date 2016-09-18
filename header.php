@@ -38,7 +38,7 @@
 			<div class="menu_bgr">
 				<div class="menu">
 					<div class="usr_menu"><ul>
-						<li>Ввод</li>
+						<a href="index.php" style="color: white;"><li>Ввод</li></a>
 						<a href="passports.php" style="color:white;"><li>Редактирование</li></a>
 						<li>Просмотр</li>
 						<li>Печать</li>

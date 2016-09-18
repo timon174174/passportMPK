@@ -210,12 +210,19 @@ include "header.php";
 
 	<h1 style="font-weight: bold;">4.Материально-техническое оснащение лаборатории/мастерской</h1>
 	<h1 style="font-style: italic;">Перечень электронных плакатов, дидактических средств и прочих материалов</h1>
+
 	<table class="per_tbl1">
+		<thead>
 		<tr>
 			<td style="width: 400px">Наименование</td>
 			<td>Кол-во</td>
 			<td>Год приобретения</td>
 		</tr>
+		</thead>
+		<tbody>
+
+		</tbody>
+
 
 	</table>
 	<input type="button" value="Добавить" id="add_per_tbl1">

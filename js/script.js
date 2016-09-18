@@ -2,6 +2,42 @@ $(document).ready(function(){
 
 
 	updateOfficesFgos();
+	updateMaterialTehn();
+	var solMaterialTehn;
+	function updateMaterialTehn(){
+		$(".per_tbl1>tbody").html("");
+
+		audience = $("select[name='audience']>option:selected").val();
+
+		$.ajax({
+			type: "POST",
+			dataType:"json",
+			url: "php/get_spr_tools.php",
+			data: {audience:audience},
+			success: function(data) {
+				var i=0;
+				var arr = new Array();
+				$.each(data, function(index, value){
+					arr[i] = new Array();
+					arr[i]["type"] = "option";
+					arr[i]["label"] = value["index_discipline"]+" "+value["name"];
+					arr[i]["value"] = value["id"];
+					i++;
+				});
+				solMaterialTehn = $("select[name='material_tehn_select']").searchableOptionList({
+					data:arr,
+					maxHeight: '250px',
+					texts: {
+						searchplaceholder: 'Выберите материально техническое оснащение'
+					},
+				});
+
+			},
+			error: function(xhr){
+				console.log(xhr);
+			}
+		});
+	}
 	function updateOfficesFgos(){
 		var type = $("select[name='spr_t_cabinet_fgos'] option:selected").val();
 		console.log
@@ -94,7 +130,8 @@ $(document).ready(function(){
 
 	$('#add_per_tbl').click(function(){
 
-		$(".per_tbl").append('<tr><td><input type="name" name="plakat_name"></td><td><input type="text" name="plakat_count"></td><td><a class="delete_row">Удалить</a></td></tr>');
+		$(".per_tbl").append('<tr><td><input type="name" name="plakat_name"></td><td><input type="text" name="plakat_count"></td>' +
+			'<td><a class="delete_row">Удалить</a></td></tr>');
 
 
 
@@ -105,7 +142,11 @@ $(document).ready(function(){
 	});
 
 	$('#add_per_tbl1').click(function(){
-		$(".per_tbl1").append('<tr><td><select name="material_tehn_name"></select></td><td><input type="text" name="material_tehn_count" style="width: 40px"/></td><td><input type="text" name="material_tehn_year" style="width: 60px"/></td><td><a class="delete_row">Удалить</a></td></tr>');
+
+		$(".per_tbl1>tbody").append('<tr><td><select name="material_tehn_name">' +
+			'</select></td><td><input type="text" name="material_tehn_count" style="width: 40px"/>' +
+			'</td><td><input type="text" name="material_tehn_year" style="width: 60px"/></td>' +
+			'<td><a class="delete_row">Удалить</a></td></tr>');
 		audience = $("select[name='audience']>option:selected").val();
 
 		$.ajax({
@@ -132,6 +173,7 @@ $(document).ready(function(){
 			$(this).parent().parent().remove();
 		});
 	});
+
 
 
 
@@ -274,7 +316,7 @@ $(document).ready(function(){
 		var ist_shum = $("input[name='ist_shum']").val();
 		var type_light = $("input[name='type_light']").val();
 		var fact_light_estestvennaya = $("input[name='fact_light_estestvennaya']").val();
-		var fact_light_iskustvennaya = $("input[name='fact_light_iskustvennay']").val();
+		var fact_light_iskustvennaya = $("input[name='fact_light_iskustvennaya']").val();
 		var date_priem = $("input[name='date_priem']").val();
 		var allDisciplines = new Array;
 		var instr = new Array;
@@ -301,8 +343,8 @@ $(document).ready(function(){
 			i++;
 		});
 		i=1;
-		$.each($("input[name='material_tehn_name']"), function (index, value) {
-			mat_tehn['['+i+'][name]'] = $(this).val();
+		$.each($("select[name='material_tehn_name']"), function (index, value) {
+			mat_tehn['['+i+'][name]'] = $(this).find("option:selected").html();
 			i++;
 		});
 		i=1;
@@ -410,6 +452,38 @@ $(document).ready(function(){
 
 	});
 	$("select[name='audience']").change(function(){
+
+		$(".per_tbl1>tbody").html("");
+
+		audience = $("select[name='audience']>option:selected").val();
+
+		$.ajax({
+			type: "POST",
+			dataType:"json",
+			url: "php/get_spr_tools.php",
+			data: {audience:audience},
+			success: function(data) {
+				var i=0;
+				var arr = new Array();
+				$.each(data, function(index, value){
+					arr[i] = new Array();
+					arr[i]["type"] = "option";
+					arr[i]["label"] = value["index_discipline"]+" "+value["name"];
+					arr[i]["value"] = value["id"];
+					i++;
+				});
+				solMaterialTehn = {
+					data:arr,
+				};
+				console.log(solMaterialTehn);
+
+
+			},
+			error: function(xhr){
+				console.log(xhr);
+			}
+		});
+
 		id_audience = $(this).find("option:checked").val();
 		$.ajax({
 			type: "POST",
